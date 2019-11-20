@@ -1,0 +1,4575 @@
+# Translation of Plugins - bbPress - Stable (latest release) in Hungarian
+# This file is distributed under the same license as the Plugins - bbPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-01 21:57:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - bbPress - Stable (latest release)\n"
+
+#. translators: user role
+#: includes/common/locale.php:56
+msgctxt "User role"
+msgid "Blocked"
+msgstr "Kitiltott"
+
+#. translators: user role
+#: includes/common/locale.php:53
+msgctxt "User role"
+msgid "Spectator"
+msgstr "Vendég"
+
+#. translators: user role
+#: includes/common/locale.php:50
+msgctxt "User role"
+msgid "Participant"
+msgstr "Felhasználó"
+
+#. translators: user role
+#: includes/common/locale.php:47
+msgctxt "User role"
+msgid "Moderator"
+msgstr "Moderátor"
+
+#. translators: user role
+#: includes/common/locale.php:44
+msgctxt "User role"
+msgid "Keymaster"
+msgstr "Adminisztrátor"
+
+#. Author of the plugin/theme
+msgid "The bbPress Community"
+msgstr "A bbPress Közösség"
+
+#. Plugin Name of the plugin/theme
+msgid "bbPress"
+msgstr "bbPress"
+
+#. Description of the plugin/theme
+msgid "bbPress is forum software with a twist from the creators of WordPress."
+msgstr "A bbPress egy fórum szoftver, egy kis csavarral, a WordPress alkotóitól."
+
+#. #-#-#-#-#  bbpress-code.pot (bbPress 2.5.13)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  bbpress-code.pot (bbPress 2.5.13)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://bbpress.org"
+msgstr "http://bbpress.org"
+
+#: includes/admin/tools.php:1148
+msgid "No reply positions to recalculate!"
+msgstr "Nincs kiszámítható hozzászólás pozíció."
+
+#: includes/admin/tools.php:1147
+msgid "Recalculating reply menu order &hellip; %s"
+msgstr "%s &hellip; hozzászólás menü rendezés újrakalkulása"
+
+#: includes/admin/tools.php:166
+msgid "Recalculate the position of each reply"
+msgstr "Minden egyes válasz poziciójának újraszámolása"
+
+#: templates/default/extras/page-topic-tags.php:22
+msgid "<p>This is a collection of tags that are currently popular on our forums.</p>"
+msgstr "<p>Ez a fórumban jelenleg legnépszerűbb címkék gyűjteménye.</p>"
+
+#: templates/default/extras/page-forum-statistics.php:22
+msgid "<p>Here are the statistics and popular topics of our forums.</p>"
+msgstr "<p>Statisztika és a fórum legnépszerűbb témakörei.</p>"
+
+#: templates/default/bbpress-functions.php:426
+msgid "Please login to subscribe to this topic."
+msgstr "Kérlek jelentkezz be, hogy feliratkozhass ehhez a témához."
+
+#: templates/default/bbpress-functions.php:375
+#: templates/default/bbpress-functions.php:443
+msgid "The topic could not be found."
+msgstr "A téma nem található."
+
+#: templates/default/bbpress-functions.php:358
+msgid "Please login to make this topic a favorite."
+msgstr "Kérlek jelentkezz be, hogy kedvenced legyen ez a téma."
+
+#: templates/default/bbpress-functions.php:353
+msgid "Favorites are no longer active."
+msgstr "Kedvencek már nem aktív."
+
+#: templates/default/bbpress-functions.php:320
+#: templates/default/bbpress-functions.php:388
+#: templates/default/bbpress-functions.php:456
+msgid "The request was unsuccessful. Please try again."
+msgstr "A kérés sikertelen volt. Kérlek próbáld újra."
+
+#: templates/default/bbpress-functions.php:312
+#: templates/default/bbpress-functions.php:380
+#: templates/default/bbpress-functions.php:448
+msgid "Are you sure you meant to do that?"
+msgstr "Biztos vagy benne, hogy így gondolod?"
+
+#: templates/default/bbpress-functions.php:307
+msgid "The forum could not be found."
+msgstr "A fórum nem található."
+
+#: templates/default/bbpress-functions.php:299
+#: templates/default/bbpress-functions.php:367
+#: templates/default/bbpress-functions.php:435
+msgid "You do not have permission to do this."
+msgstr "Nincs megfelelő jogosultság ehhez a művelethez."
+
+#: templates/default/bbpress-functions.php:290
+msgid "Please login to subscribe to this forum."
+msgstr "Jelentkezzünk be a fórum-feliratkozáshoz."
+
+#: templates/default/bbpress-functions.php:285
+#: templates/default/bbpress-functions.php:421
+msgid "Subscriptions are no longer active."
+msgstr "A feliratkozások már nem aktívak."
+
+#: templates/default/bbpress-functions.php:248
+#: templates/default/bbpress-functions.php:257
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr "Valami hiba történt. Frissíteni kell a böngészőt és meg kell próbálni újra."
+
+#: templates/default/bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr "Ez a felhasználó még nem hozott létre témakört."
+
+#: templates/default/bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr "Még nem hoztunk létre témakört."
+
+#: templates/default/bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr "Indított témakörök"
+
+#: templates/default/bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr "Ez a felhasználó jelenleg egyik témakörre sem iratkozott fel."
+
+#: templates/default/bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr "Jelenleg egyik témakörre sem vagyunk feliratkozva."
+
+#: templates/default/bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr "A felhasználónak jelenleg nincsenek fórum-feliratkozásai."
+
+#: templates/default/bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr "Jelenleg nincs fórum-feliratkozás."
+
+#: templates/default/bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr "Fórum-feliratkozások"
+
+#: templates/default/bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr "Ez a tag még nem írt egyetlen témába sem."
+
+#: templates/default/bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr "Nincs hozzászólás"
+
+#: templates/default/bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr "Hozzászólások"
+
+#: templates/default/bbpress/user-profile.php:26
+msgid "Replies Created: %s"
+msgstr "Hozzászólások száma: %s"
+
+#: templates/default/bbpress/user-profile.php:25
+msgid "Topics Started: %s"
+msgstr "Nyitott témák: %s"
+
+#: templates/default/bbpress/user-profile.php:24
+msgid "Forum Role: %s"
+msgstr "Fórum rang: %s"
+
+#: templates/default/bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr "A felhasználónak még nincs kedvenc témaköre."
+
+#: templates/default/bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr "Nincs kedvenc témakör."
+
+#: templates/default/bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr "Kedvenc témakörök"
+
+#: templates/default/bbpress/user-details.php:58
+msgid "%s's Subscriptions"
+msgstr "%s feliratkozásai"
+
+#: templates/default/bbpress/user-details.php:48
+msgid "%s's Favorites"
+msgstr "%s kedvencei"
+
+#: templates/default/bbpress/user-details.php:41
+msgid "%s's Replies Created"
+msgstr "%s hozzászólása létrehozásra került"
+
+#: templates/default/bbpress/user-details.php:35
+msgid "%s's Topics Started"
+msgstr "%s által indìtott témák"
+
+#: templates/default/bbpress/user-details.php:29
+#: templates/default/bbpress/user-profile.php:15
+msgid "Profile"
+msgstr "Adatlap"
+
+#: templates/default/bbpress/user-details.php:29
+msgid "%s's Profile"
+msgstr "%s Adatlapja"
+
+#: templates/default/bbpress/loop-single-topic.php:68
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "itt: <a href=\"%1$s\">%2$s</a>"
+
+#: templates/default/bbpress/loop-single-topic.php:60
+msgid "Started by: %1$s"
+msgstr "Indította: %1$s"
+
+#: templates/default/bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "Hozzászólás:"
+
+#: templates/default/bbpress/loop-search.php:22
+#: templates/default/bbpress/loop-search.php:44
+msgid "Search Results"
+msgstr "Keresési eredmények"
+
+#: templates/default/bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr "a fórumban"
+
+#: templates/default/bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr "a csoport fórumban"
+
+#: templates/default/bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr "Téma:"
+
+#: templates/default/bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr "Hozzászólás:"
+
+#: templates/default/bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr "Fórum:"
+
+#: templates/default/bbpress/loop-search-forum.php:16
+msgid "Last updated %s"
+msgstr "Utoljára frissítve: %s"
+
+#: templates/default/bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr "Blog szerep"
+
+#: templates/default/bbpress/form-user-register.php:18
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "A megadott email címet a jelszó visszaszerzésével és a regisztráció ellenőrzésével kapcsolatban kerül felhasználásra."
+
+#: templates/default/bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "A felhasználónévnek egyedinek kell lennie és később nem változtatható meg."
+
+#: templates/default/bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr "Regisztráció"
+
+#: templates/default/bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr "Jelszó visszaszerzése"
+
+#: templates/default/bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr "Felhasználónév vagy email cím"
+
+#: templates/default/bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr "Bejelentkezve marad"
+
+#: templates/default/bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr "Felhasználó módosítása"
+
+#: templates/default/bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr "Adatlap Módosítása"
+
+#: templates/default/bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Ezen felhasználó számár Hálózati Szuper Admin jogok adása."
+
+#: templates/default/bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr "Hálózati rang"
+
+#: templates/default/bbpress/form-user-edit.php:143
+#: templates/default/bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr "Felhasználói rang"
+
+#: templates/default/bbpress/form-user-edit.php:133
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr "A jelszónak legalább 10 karakter hosszúnak kell lennie. Kis- és nagy betűket, számokat és szimbólumokat használjunk, hogy erősebb legyen."
+
+#: templates/default/bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr "Az új jelszót mégegyszer meg kell adni."
+
+#: templates/default/bbpress/form-user-edit.php:127
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr "Jelszóváltoztatás esetén az új jelszót kell ideírni, egyébként maradjon üres."
+
+#: templates/default/bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr "Új jelszó"
+
+#: templates/default/bbpress/form-user-edit.php:115
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr "Van egy függőben levő email cím változtatás erre: <code>%1$s</code>. <a href=\"%2$s\">Mégsem</a>"
+
+#: templates/default/bbpress/form-user-edit.php:90
+#: templates/default/bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr "Regisztráció"
+
+#: templates/default/bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr "Életrajzi információ"
+
+#: templates/default/bbpress/form-user-edit.php:74
+#: templates/default/bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr "A felhasználóról"
+
+#: templates/default/bbpress/form-user-edit.php:74
+#: templates/default/bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr "Bemutatkozás"
+
+#: templates/default/bbpress/form-user-edit.php:49
+#: templates/default/bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr "Kapcsolati adatok"
+
+#: templates/default/bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr "Megjelenő név"
+
+#: templates/default/bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr "Becenév"
+
+#: templates/default/bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr "Családi név"
+
+#: templates/default/bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: templates/default/bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr "Új témakörök létrehozásához be kell jelentkezni."
+
+#: templates/default/bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr "Nem lehet nyitni új témát."
+
+#: templates/default/bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr "Téma állapota:"
+
+#: templates/default/bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr "Témakör típus:"
+
+#: templates/default/bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr "Témakör címkék:"
+
+#: templates/default/bbpress/form-topic.php:75
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Témakör cím (maximális hossz: %d):"
+
+#: templates/default/bbpress/form-topic.php:53
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr "Ez a fórum lezárt az új témakörök elől, habár a bejegyzésbeküldési lehetőségek lehetővé teszik ennek végrehajtását."
+
+#: templates/default/bbpress/form-topic.php:43
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Új témakör létrehozása: &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-topic-tag.php:101
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "\"%s\" címke biztosan törölve legyen? Ez a művelet végleges és nem vonható vissza."
+
+#: templates/default/bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr "Az erre a címkére mutató hivatkozások a továbbiakban már nem működnek."
+
+#: templates/default/bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr "A címke törlése nem vonható vissza."
+
+#: templates/default/bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Ez a művelet nem törli a témaköröket. Csak maga a címke kerül törlésre."
+
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "\"%s\" címke biztosan összevonásra kerüljön tag a megadott címkével?"
+
+#: templates/default/bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr "Létező címkék:"
+
+#: templates/default/bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr "A címkék összevonásának művelete nem vonható vissza."
+
+#: templates/default/bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr "Frissítés"
+
+#: templates/default/bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr "Keresőbarát név:"
+
+#: templates/default/bbpress/form-topic-tag.php:29
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "A keresőbarát név megváltoztatása érinti a közvetlen hivatkozásokat. A régi közvetlen hivatkozások nem működnek tovább."
+
+#: templates/default/bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Hagyjuk a keresőbarát nevet üresen az automatikus generáláshoz."
+
+#: templates/default/bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr "Átnevezés"
+
+#: templates/default/bbpress/form-topic-tag.php:18
+msgid "Manage Tag: \"%s\""
+msgstr "Címke kezelés: \"%s\""
+
+#: templates/default/bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr "Témakör címkék másolása az új témakörbe"
+
+#: templates/default/bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr "Kedvencek másolása az új témakörbe"
+
+#: templates/default/bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr "Feliratkozók másolása az új témakörbe"
+
+#: templates/default/bbpress/form-topic-split.php:42
+msgid "Split: %s"
+msgstr "Felosztás: %s"
+
+#: templates/default/bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr "Felosztás metódus"
+
+#: templates/default/bbpress/form-topic-split.php:33
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "Létező témakör opciók használata esetén a mindkét témakörből származó hozzászólások időrendben kerülnek összevonásra. Az összevonásra kerülő hozzászólások a beküldés dátuma és időpontja szerint kerülnek be az új sorrendbe."
+
+#: templates/default/bbpress/form-topic-split.php:29
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "Egy témakör felosztásakor azt a hozzászólást kell kijelölni, amely az új témakörben új címmel jelenik meg vagy egy már létező témakörbe bekerül."
+
+#: templates/default/bbpress/form-topic-split.php:24
+msgid "Split topic \"%s\""
+msgstr "\"%s\" témakör felosztása"
+
+#: templates/default/bbpress/form-topic-merge.php:106
+#: templates/default/bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr "A témakör nem szerkeszthető."
+
+#: templates/default/bbpress/form-topic-merge.php:106
+#: templates/default/bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr "Nincs jogosultság a témakör szerkesztésére."
+
+#: templates/default/bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr "Témakör címkék összevonása"
+
+#: templates/default/bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr "Témakör kedvencek összevonása"
+
+#: templates/default/bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr "Témakör feliratkozók összevonása"
+
+#: templates/default/bbpress/form-topic-merge.php:64
+#: templates/default/bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr "Témakör extrák"
+
+#: templates/default/bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr "Nincs összevonható témakör ebben a fórumban."
+
+#: templates/default/bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr "Összevonás ezzel a témakörrel:"
+
+#: templates/default/bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr "Cél"
+
+#: templates/default/bbpress/form-topic-merge.php:34
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr "A hozzászólások mindkét témakörön belül időpont szerint kerülnek összevonásra. Az összevont hozzászólások sorrendje a beküldés szerinti dátumon és időponton alapul. Ha a céltémakör ez utáni keltezésű, a bejegyzés dátuma frissítésre kerül a második legkorábbira."
+
+#: templates/default/bbpress/form-topic-merge.php:30
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "A témakör vezető megtartásához menjünk egy másik témakörbe és inna használjuk az Összevonás eszközt."
+
+#: templates/default/bbpress/form-topic-merge.php:29
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "Válasszunk egy témát, amivel egyesíteni szeretnénk a jelenlegit. A cél téma lesz a téma indító, a jelenlegi pedig hozzászólásként jelenik majd meg a továbbiakban."
+
+#: templates/default/bbpress/form-topic-merge.php:24
+msgid "Merge topic \"%s\""
+msgstr "\"%s\" témakör összevonása"
+
+#: templates/default/bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Keresés:"
+
+#: templates/default/bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr "Be kell jelentkezni a hozzászóláshoz."
+
+#: templates/default/bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr "Ehhez a témakörhöz nem lehet hozzászólni."
+
+#: templates/default/bbpress/form-reply.php:166
+#: templates/default/bbpress/form-topic.php:226
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "&#8216;%s&#8217; fórum lezárásra került, így a hozzászólás nem lehetséges. "
+
+#: templates/default/bbpress/form-reply.php:158
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "&#8216;%s&#8217; témakör lezárásra került, így a hozzászólás nem lehetséges."
+
+#: templates/default/bbpress/form-reply.php:118
+#: templates/default/bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr "Szerkesztés opcionális indoka:"
+
+#: templates/default/bbpress/form-reply.php:114
+#: templates/default/bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr "Naplózás a szerkesztésről:"
+
+#: templates/default/bbpress/form-reply.php:97
+#: templates/default/bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr "Értesítés email-ben a hozzászólásokról"
+
+#: templates/default/bbpress/form-reply.php:93
+#: templates/default/bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr "Szerző értesítése email-ben a hozzászólásokról"
+
+#: templates/default/bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr "Címkék:"
+
+#: templates/default/bbpress/form-reply.php:36
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr "A témakör lezárásra került az új hozzászólások elől, de a beküldési beállítások mégis lehetővé teszik a művelet végrehajtását."
+
+#: templates/default/bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr "Nincs lehetőség szerkeszteni ezt a hozzászólást."
+
+#: templates/default/bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr "Nincs lehetőség szerkeszteni ezt a hozzászólást!"
+
+#: templates/default/bbpress/form-reply-move.php:68
+#: templates/default/bbpress/form-topic-merge.php:89
+#: templates/default/bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>FIGYELEM:</strong> Ez a művelet nem mondható vissza."
+
+#: templates/default/bbpress/form-reply-move.php:49
+#: templates/default/bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr "Létező témakör használata ebben a fórumban:"
+
+#: templates/default/bbpress/form-reply-move.php:42
+msgid "Moved: %s"
+msgstr "Áthelyezve: %s"
+
+#: templates/default/bbpress/form-reply-move.php:41
+#: templates/default/bbpress/form-topic-split.php:41
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "<strong>%s</strong> új témakörének címe:"
+
+#: templates/default/bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr "Áthelyezési mód"
+
+#: templates/default/bbpress/form-reply-move.php:33
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr "Ha kiválasztunk egy meglévő témát, rendezhetjük a hozzászólásokat a létrehozás ideje és dátuma szerint."
+
+#: templates/default/bbpress/form-reply-move.php:29
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr "Lehetőség van hozzászólni bármely új témához egy új címmel vagy összevonni egy meglévő témát."
+
+#: templates/default/bbpress/form-reply-move.php:24
+msgid "Move reply \"%s\""
+msgstr "\"%s\" hozzászólás áthelyezés"
+
+#: templates/default/bbpress/form-protected.php:14
+msgid "Protected"
+msgstr "Védett"
+
+#: templates/default/bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr "Új fórumok létrehozásához be kell jelentkezni."
+
+#: templates/default/bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr "Nincs új fórum nyitásához megfelelő jogosultság"
+
+#: templates/default/bbpress/form-forum.php:161
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "&#8216;%s&#8217; fórum lezárásra került további új tartalom elől."
+
+#: templates/default/bbpress/form-forum.php:138
+#: templates/default/bbpress/form-reply-move.php:72
+#: templates/default/bbpress/form-reply.php:135
+#: templates/default/bbpress/form-topic-merge.php:93
+#: templates/default/bbpress/form-topic-split.php:97
+#: templates/default/bbpress/form-topic.php:203
+msgid "Submit"
+msgstr "Küldés"
+
+#: templates/default/bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr "(nincs szülő)"
+
+#: templates/default/bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr "Fórumtípus:"
+
+#: templates/default/bbpress/form-forum.php:82
+#: templates/default/bbpress/form-reply.php:64
+#: templates/default/bbpress/form-topic.php:90
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "A következő <abbr title=\"HyperText Markup Language\">HTML</abbr> címkéket és attribútumokat lehet használni:"
+
+#: templates/default/bbpress/form-forum.php:67
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Fórumnév (maximális hossz: %d):"
+
+#: templates/default/bbpress/form-forum.php:55
+#: templates/default/bbpress/form-reply.php:44
+#: templates/default/bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "A regisztrációs beállítások szerint lehetőség van HTML tartalom korlát nélküli beküldésére."
+
+#: templates/default/bbpress/form-forum.php:47
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr "A fórum lezárásra került az új tartalom elől, de a regisztrációs beállítás mégis lehetővé teszi a művelet végrehajtását."
+
+#: templates/default/bbpress/form-forum.php:37
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Új fórum létrehozása itt: &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-forum.php:35
+#: templates/default/bbpress/form-topic.php:41
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Szerkesztés alatt &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr "Email (nem kerül publikálásra) (kötelező):"
+
+#: templates/default/bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr "Név (kötelező)"
+
+#: templates/default/bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr "Saját információk:"
+
+#: templates/default/bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr "Nem található téma."
+
+#: templates/default/bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr "Hoppá! A keresés nem hozott eredményt!"
+
+#: templates/default/bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr "Nem található hozzászólás."
+
+#: templates/default/bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr "Nem található fórum."
+
+#: templates/default/bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr "Nincs jogosultság a fórum megtekintéséhez."
+
+#: templates/default/bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr "Magánjellegű"
+
+#: templates/default/bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr "Már megtörtént a bejelentkezés."
+
+#: templates/default/bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr "Rejtett hozzászólások"
+
+#: templates/default/bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr "Rejtett témakörök"
+
+#: templates/default/bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr "Témakörcímkék kiürítése"
+
+#: templates/default/bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr "Regisztrált felhasználók"
+
+#: includes/users/template.php:1476
+msgid "Registration complete. Please check your e-mail."
+msgstr "Sikeres regisztráció. Ellenőrizni kell a megadott postafiókot."
+
+#: includes/users/template.php:1471
+msgid "Check your e-mail for your new password."
+msgstr "Ellenőrizni kell a megadott postafiókot - új jelszó elküldve."
+
+#: includes/users/template.php:1466
+msgid "Check your e-mail for the confirmation link."
+msgstr "Ellenőrizni kell a megadott postafiókot."
+
+#: includes/users/template.php:1457
+msgid "New user registration is currently not allowed."
+msgstr "Új felhasználói regisztráció jelenleg nem engedélyezett."
+
+#: includes/users/template.php:1453
+msgid "You are now logged out."
+msgstr "Kijelentkezés megtörtént."
+
+#: includes/users/template.php:1255
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; A honlaphoz nem tartozik szerepkör &mdash;"
+
+#: includes/users/template.php:1188
+msgid "This user has super admin privileges."
+msgstr "Ez a felhasználó Szuper Admin jogokkal rendelkezik."
+
+#: includes/users/template.php:1188
+msgid "You have super admin privileges."
+msgstr "Főadminisztrátori jogosultsággal rendelkezünk."
+
+#: includes/users/template.php:1163
+msgid "User updated."
+msgstr "Felhasználó módosítva."
+
+#: includes/users/template.php:895
+msgid "Favorited"
+msgstr "Kedvencnek"
+
+#: includes/users/template.php:557
+msgid "Admin"
+msgstr "Adminisztrátor"
+
+#: includes/users/template.php:517
+msgid "Member"
+msgstr "Tag"
+
+#: includes/users/template.php:507
+msgid "Inactive"
+msgstr "Inaktív"
+
+#: includes/users/template.php:503
+msgid "Guest"
+msgstr "Vendég"
+
+#: includes/users/functions.php:1331
+msgid "<strong>ERROR</strong>: There was a problem subscribing to that topic!"
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakörre történő feliratkozáskor."
+
+#: includes/users/functions.php:1329
+msgid "<strong>ERROR</strong>: There was a problem unsubscribing from that topic!"
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakörről történő leiratkozáskor."
+
+#: includes/users/functions.php:1276
+msgid "<strong>ERROR</strong>: No topic was found! Which topic are you subscribing/unsubscribing to?"
+msgstr "<strong>HIBA</strong>: A témakör nem található. Melyik témakörre vonatkozzon a feliratkozás vagy leiratkozás?"
+
+#: includes/users/functions.php:1225
+msgid "<strong>ERROR</strong>: There was a problem subscribing to that forum!"
+msgstr "<strong>HIBA</strong>: Gond adódott a fórumra történő feliratkozás során."
+
+#: includes/users/functions.php:1223
+msgid "<strong>ERROR</strong>: There was a problem unsubscribing from that forum!"
+msgstr "<strong>HIBA</strong>: Gond adódott a fórumról való leiratkozás során"
+
+#: includes/users/functions.php:1170
+msgid "<strong>ERROR</strong>: No forum was found! Which forum are you subscribing/unsubscribing to?"
+msgstr "<strong>HIBA</strong>: Nem található a fórum! Melyik fórumra/ról szeretnénk volna fel- vagy leiratkozni?"
+
+#: includes/users/functions.php:508
+msgid "<strong>ERROR</strong>: There was a problem favoriting that topic!"
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör kedvencekbe helyezésekor."
+
+#: includes/users/functions.php:506
+msgid "<strong>ERROR</strong>: There was a problem removing that topic from favorites!"
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör kedvencekből történő eltávolításakor."
+
+#: includes/users/functions.php:463 includes/users/functions.php:1178
+#: includes/users/functions.php:1284
+msgid "<strong>ERROR</strong>: You don't have the permission to edit favorites of that user!"
+msgstr "<strong>HIBA</strong>: Nincs jogosultság ezen felhasználó kedvenceit szerkeszteni."
+
+#: includes/users/functions.php:455
+msgid "<strong>ERROR</strong>: No topic was found! Which topic are you marking/unmarking as favorite?"
+msgstr "<strong>HIBA</strong>: A témakör nem található. Melyik témakört szeretnénk a kedvencekbe helyezni vagy onnan eltávolítani?"
+
+#: includes/topics/template.php:3375
+msgid "View Topic Tag"
+msgstr "Témakör címke megtekintése"
+
+#: includes/topics/template.php:3374
+msgid "New Tag Name"
+msgstr "Új címke neve"
+
+#: includes/topics/template.php:3373
+msgid "Add New Tag"
+msgstr "Új címke hozzáadása"
+
+#: includes/topics/template.php:3372
+msgid "Update Tag"
+msgstr "Címke frissítése"
+
+#: includes/topics/template.php:3371
+msgid "Edit Tag"
+msgstr "Címke szerkesztés"
+
+#: includes/topics/template.php:3370
+msgid "All Tags"
+msgstr "Összes címke"
+
+#: includes/topics/template.php:3369
+msgid "Popular Tags"
+msgstr "Népszerű címkék"
+
+#: includes/topics/template.php:3368
+msgid "Search Tags"
+msgstr "Címkék keresése"
+
+#: includes/topics/template.php:3366
+#: templates/default/bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr "Témakör címkék"
+
+#: includes/topics/template.php:3320
+msgid "This topic has no replies."
+msgstr "A témakör nem tartalmaz hozzászólásokat."
+
+#: includes/topics/template.php:3316
+msgid "This topic contains %1$s and has %2$s."
+msgstr "Ennek a témakörnek tartalma %1$s és %2$s."
+
+#: includes/topics/template.php:3312
+msgid "This topic contains %1$s, has %2$s, and was last updated by %3$s %4$s."
+msgstr "Ennek a témakörnek tartalma %1$s, %2$s. Utolsó frissítés: %3$s %4$s."
+
+#: includes/topics/template.php:3306
+msgid "%s voice"
+msgid_plural "%s voices"
+msgstr[0] "%s résztvevő"
+msgstr[1] "%s résztvevő"
+
+#: includes/topics/template.php:3046
+msgid "This topic is in the trash."
+msgstr "Ez a témakör lomtárban van."
+
+#: includes/topics/template.php:3041
+msgid "This topic is marked as spam."
+msgstr "Ez a témakör spamként lett megjelölve."
+
+#: includes/topics/template.php:2981
+msgid "Viewing topic %2$s (of %4$s total)"
+msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
+msgstr[0] "%2$s / %4$s témakör megtekintése"
+msgstr[1] "%1$s témakör megtekintése : %2$s-%3$s / %4$s"
+
+#: includes/topics/template.php:2977
+msgid "Viewing %1$s topic"
+msgid_plural "Viewing %1$s topics"
+msgstr[0] "%1$s témakör megtekintése"
+msgstr[1] "%1$s témakör megtekintése"
+
+#: includes/topics/template.php:2816
+#: templates/default/bbpress/form-topic-tag.php:59
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr "Összevonás"
+
+#: includes/topics/template.php:2686
+msgctxt "Topic Status"
+msgid "Open"
+msgstr "Megnyitás"
+
+#: includes/topics/template.php:2685
+msgctxt "Topic Status"
+msgid "Close"
+msgstr "Lezárás"
+
+#: includes/topics/template.php:2295
+msgid "Tagged:"
+msgstr "Címkézve:"
+
+#: includes/topics/template.php:1892
+msgid "Unfavorite"
+msgstr "Nem kedvel"
+
+#: includes/topics/template.php:1891 includes/users/template.php:894
+msgid "Favorite"
+msgstr "Kedvenc"
+
+#: includes/topics/template.php:993
+msgid "This topic was modified %1$s by %2$s."
+msgstr "A témakör módosításra került: %1$s-%2$s."
+
+#: includes/topics/template.php:991
+msgid "This topic was modified %1$s by %2$s. Reason: %3$s"
+msgstr "A témakör módosításra került: %1$s-%2$s. Indok: %3$s"
+
+#: includes/topics/template.php:60
+msgid "No topics found in Trash"
+msgstr "Nincs témakör a lomtárban"
+
+#: includes/topics/template.php:59
+msgid "No topics found"
+msgstr "Nincs témakör"
+
+#: includes/topics/template.php:58
+msgid "Search Topics"
+msgstr "Témakörök keresése"
+
+#: includes/topics/template.php:56 includes/topics/template.php:57
+msgid "View Topic"
+msgstr "Témakör megtekintése"
+
+#: includes/topics/template.php:54
+msgid "Edit Topic"
+msgstr "Témakör szerkesztése"
+
+#: includes/topics/template.php:52 templates/default/bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "Új témakör létrehozása"
+
+#: includes/topics/template.php:51 includes/topics/template.php:55
+msgid "New Topic"
+msgstr "Új témakör"
+
+#: includes/topics/functions.php:2158
+msgid "<strong>ERROR</strong>: There was a problem deleting the topic."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör törlésekor."
+
+#: includes/topics/functions.php:2150
+msgid "<strong>ERROR</strong>: There was a problem untrashing the topic."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör lomtárból történő eltávolításakor."
+
+#: includes/topics/functions.php:2142
+msgid "<strong>ERROR</strong>: There was a problem trashing the topic."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör lomtárba helyezésekor."
+
+#: includes/topics/functions.php:2123
+msgid "<strong>ERROR</strong>: There was a problem marking the topic as spam."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör spamnak minősítésekor."
+
+#: includes/topics/functions.php:2123
+msgid "<strong>ERROR</strong>: There was a problem unmarking the topic as spam."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör nem-spamnak minősítésekor."
+
+#: includes/topics/functions.php:2113
+msgid "<strong>ERROR</strong>: There was a problem sticking the topic."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör rögzítésekor."
+
+#: includes/topics/functions.php:2113
+msgid "<strong>ERROR</strong>: There was a problem unsticking the topic."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör rögzítésének feloldásakor."
+
+#: includes/topics/functions.php:2102
+msgid "<strong>ERROR</strong>: There was a problem opening the topic."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör megnyitásakor."
+
+#: includes/topics/functions.php:2102
+msgid "<strong>ERROR</strong>: There was a problem closing the topic."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a témakör lezárásakor."
+
+#: includes/topics/functions.php:2089
+msgid "<strong>ERROR:</strong> You do not have the permission to do that."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a művelet elvégzéséhez."
+
+#: includes/topics/functions.php:1984
+msgctxt "Make topic super sticky"
+msgid "Super Sticky"
+msgstr "Szuper Kiemelt"
+
+#: includes/topics/functions.php:1983
+msgctxt "Make topic sticky"
+msgid "Sticky"
+msgstr "Kiemelt"
+
+#: includes/topics/functions.php:1982
+msgctxt "Unstick a topic"
+msgid "Normal"
+msgstr "Normál"
+
+#: includes/topics/functions.php:1969
+msgctxt "Mark topic as pending"
+msgid "Pending"
+msgstr "Függő"
+
+#: includes/topics/functions.php:1968
+msgctxt "Trash the topic"
+msgid "Trash"
+msgstr "Lomtárba"
+
+#: includes/topics/functions.php:1967
+msgctxt "Spam the topic"
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/topics/functions.php:1966
+msgctxt "Close the topic"
+msgid "Closed"
+msgstr "Zárva"
+
+#: includes/topics/functions.php:1965
+msgctxt "Open the topic"
+msgid "Open"
+msgstr "Nyitva"
+
+#: includes/topics/functions.php:1931
+msgid "<strong>ERROR</strong>: The following problem(s) have been found while deleting the tag: %s"
+msgstr "<strong>HIBA</strong>: A következő problémák merültek fel a címke törlésekor: %s"
+
+#: includes/topics/functions.php:1922
+msgid "<strong>ERROR</strong>: You do not have the permissions to delete the topic tags."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a témakörcímkék törlésére."
+
+#: includes/topics/functions.php:1890
+msgid "<strong>ERROR</strong>: The tags which are being merged can not be the same."
+msgstr "<strong>HIBA</strong>: Az összevonandó címkék között nem lehetnek azonosak."
+
+#: includes/topics/functions.php:1881 includes/topics/functions.php:1899
+msgid "<strong>ERROR</strong>: The following problem(s) have been found while merging the tags: %s"
+msgstr "<strong>HIBA</strong>: A következő problémák merültek fel a címkék összevonásakor: %s"
+
+#: includes/topics/functions.php:1842
+msgid "<strong>ERROR</strong>: The following problem(s) have been found while updating the tag: %s"
+msgstr "<strong>HIBA</strong>: A következő problémák merültek fel a címkék frissítésekor: %s"
+
+#: includes/topics/functions.php:1832 includes/topics/functions.php:1871
+msgid "<strong>ERROR</strong>: You need to enter a tag name."
+msgstr "<strong>HIBA</strong>: Meg kell adni a címke nevét."
+
+#: includes/topics/functions.php:1826 includes/topics/functions.php:1865
+msgid "<strong>ERROR</strong>: You do not have the permissions to edit the topic tags."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a témakörcímkék szerkesztéséhez."
+
+#: includes/topics/functions.php:1808
+msgid "<strong>ERROR</strong>: The following problem(s) have been found while getting the tag: %s"
+msgstr "<strong>HIBA</strong>: A következő problémák merültek fel a címke beolvasásakor: %s"
+
+#: includes/topics/functions.php:1492
+msgid "<strong>ERROR</strong>: The topic you want to split to was not found!"
+msgstr "<strong>HIBA</strong>: A felosztandó témakör nem található."
+
+#: includes/topics/functions.php:1470
+msgid "<strong>ERROR</strong>: You need to choose a valid split option."
+msgstr "<strong>HIBA</strong>: Érvényes felosztási opciót kell választani."
+
+#: includes/topics/functions.php:1452
+msgid "<strong>ERROR</strong>: The topic you want to split was not found."
+msgstr "<strong>HIBA</strong>: A felosztandó témakör nem található."
+
+#: includes/topics/functions.php:1443
+msgid "<strong>ERROR</strong>: The reply you want to split from was not found."
+msgstr "<strong>HIBA</strong>: A felosztandó hozzászólás nem található."
+
+#: includes/topics/functions.php:1435
+msgid "<strong>ERROR</strong>: Reply ID to split the topic from not found!"
+msgstr "<strong>HIBA</strong>: A témakör felosztásának hozzászólás azonosítója (ID) nem található."
+
+#: includes/topics/functions.php:1182
+msgid "<strong>ERROR</strong>: You do not have the permissions to edit the destination topic."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a céltémakör szerkesztésére."
+
+#: includes/topics/functions.php:1178
+msgid "<strong>ERROR</strong>: The topic you want to merge to was not found."
+msgstr "<strong>HIBA</strong>: Az összevonandó témakör nem található."
+
+#: includes/topics/functions.php:1172
+msgid "<strong>ERROR</strong>: Destination topic ID not found."
+msgstr "<strong>HIBA</strong>: A céltémakör azonosítója nem található."
+
+#: includes/topics/functions.php:1158
+msgid "<strong>ERROR</strong>: The topic you want to merge was not found."
+msgstr "<strong>HIBA</strong>: Az összevonandó témakör nem található."
+
+#: includes/topics/functions.php:602
+msgid "<strong>ERROR</strong>: Your topic cannot be edited at this time."
+msgstr "<strong>HIBA</strong>: A témakör jelenleg nem szerkeszthető."
+
+#: includes/topics/functions.php:550
+msgid "<strong>ERROR</strong>: This forum is a category. No topics can be created in it."
+msgstr "<strong>HIBA</strong>: Ez a fórum egy kategória. Nem lehet benne témakört létrehozni."
+
+#: includes/topics/functions.php:504
+msgid "<strong>ERROR</strong>: You do not have permission to edit that topic."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a témakör szerkesztésére."
+
+#: includes/topics/functions.php:493
+msgid "<strong>ERROR</strong>: The topic you want to edit was not found."
+msgstr "<strong>HIBA</strong>: A szerkesztendő témakör nem található."
+
+#: includes/topics/functions.php:482 includes/topics/functions.php:1146
+msgid "<strong>ERROR</strong>: Topic ID not found."
+msgstr "<strong>HIBA</strong>: A témakör azonosító nem található."
+
+#: includes/topics/functions.php:270
+msgid "<strong>ERROR</strong>: Your topic cannot be created at this time."
+msgstr "<strong>HIBA</strong>: Jelenleg nem lehet témakört létrehozni."
+
+#: includes/topics/functions.php:265
+msgid "<strong>ERROR</strong>: Duplicate topic detected; it looks as though you&#8217;ve already said that!"
+msgstr "<strong>HIBA</strong>: Duplikált témakört érzékelt a rendszer. Valószínűleg már beküldésre került egy ilyen bejegyzés."
+
+#: includes/topics/functions.php:251 includes/topics/functions.php:569
+msgid "<strong>ERROR</strong>: This forum is hidden and you do not have the capability to read or create new topics in it."
+msgstr "<strong>HIBA</strong>: Ez a fórum rejtett fórum. Nem mindenki részére olvasható és nem mindenki tud új témaköröket létrehozni benne."
+
+#: includes/topics/functions.php:245 includes/topics/functions.php:563
+msgid "<strong>ERROR</strong>: This forum is private and you do not have the capability to read or create new topics in it."
+msgstr "<strong>HIBA</strong>: Ez a fórum személyes fórum. Nem mindenki részére olvasható és nem mindenki tud új témaköröket létrehozni benne."
+
+#: includes/topics/functions.php:239 includes/topics/functions.php:557
+msgid "<strong>ERROR</strong>: This forum has been closed to new topics."
+msgstr "<strong>HIBA</strong>: Ez a fórum lezárásra került az új témakörök elől."
+
+#: includes/topics/functions.php:232
+msgid "<strong>ERROR</strong>: This forum is a category. No topics can be created in this forum."
+msgstr "<strong>HIBA</strong>: Ez a fórum egy kategória. Ebben a fórumban nem hozható létre témakör."
+
+#: includes/topics/functions.php:187 includes/topics/functions.php:597
+msgid "<strong>ERROR</strong>: Your topic cannot be empty."
+msgstr "<strong>HIBA</strong>: A témakör nem lehet üres tartalmú."
+
+#: includes/topics/functions.php:175 includes/topics/functions.php:585
+msgid "<strong>ERROR</strong>: Your topic needs a title."
+msgstr "<strong>HIBA</strong>: Meg kell adni a témakör címét."
+
+#: includes/topics/functions.php:150
+msgid "<strong>ERROR</strong>: You do not have permission to create new topics."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság új témakörök létrehozásához."
+
+#: includes/search/template.php:405
+msgid "Viewing %2$s results (of %4$s total)"
+msgid_plural "Viewing %1$s results - %2$s through %3$s (of %4$s total)"
+msgstr[0] "%2$s / %4$s hozzászólás megtekintése"
+msgstr[1] "%1$s hozzászólás megtekintése - %2$s-%3$s / %4$s"
+
+#: includes/search/template.php:401
+msgid "Viewing %1$s result"
+msgid_plural "Viewing %1$s results"
+msgstr[0] "%1$s eredmény megtekintése"
+msgstr[1] "%1$s eredmény megtekintése"
+
+#: includes/search/template.php:229
+msgid "Search Results for '%s'"
+msgstr "'%s' keresési eredménye"
+
+#: includes/replies/template.php:2366
+msgid "Viewing %2$s post (of %4$s total)"
+msgid_plural "Viewing %1$s posts - %2$s through %3$s (of %4$s total)"
+msgstr[0] "%2$s / %4$s bejegyzés megtekintése"
+msgstr[1] "%1$s bejegyzés megtekintése - %2$s-%3$s / %4$s"
+
+#: includes/replies/template.php:2362
+msgid "Viewing %1$s post"
+msgid_plural "Viewing %1$s posts"
+msgstr[0] "%1$s bejegyzés megtekintése"
+msgstr[1] "%1$s bejegyzés megtekintése"
+
+#: includes/replies/template.php:2354
+msgid "Viewing %2$s replies (of %4$s total)"
+msgid_plural "Viewing %1$s replies - %2$s through %3$s (of %4$s total)"
+msgstr[0] "%2$s / %4$s hozzászólás megtekintése"
+msgstr[1] "%1$s hozzászólás megtekintése - %2$s-%3$s / %4$s"
+
+#: includes/replies/template.php:2350
+msgid "Viewing %1$s reply"
+msgid_plural "Viewing %1$s replies"
+msgstr[0] "%1$s hozzászólás megtekintése"
+msgstr[1] "%1$s hozzászólás megtekintése"
+
+#: includes/replies/template.php:2343
+msgid "Viewing %1$s reply thread"
+msgid_plural "Viewing %1$s reply threads"
+msgstr[0] "%1$s hozzászólás mutatása"
+msgstr[1] "%1$s hozzászólás mutatása"
+
+#: includes/replies/template.php:2237
+msgid "Split the topic from this reply"
+msgstr "Témakör felosztása ettől a hozzászólástól"
+
+#: includes/replies/template.php:2236
+msgid "Split"
+msgstr "Felosztás"
+
+#: includes/replies/template.php:2170
+msgid "Move this reply"
+msgstr "Hozzászólás áthelyezése"
+
+#: includes/replies/template.php:2169
+msgid "Move"
+msgstr "Mozgatás"
+
+#: includes/replies/template.php:2106 includes/topics/template.php:2873
+msgid "Unspam"
+msgstr "Nem-spam"
+
+#: includes/replies/template.php:2053 includes/topics/template.php:2634
+msgid "Are you sure you want to delete that permanently?"
+msgstr "Biztosan véglegesen törlésre kerüljön?"
+
+#: includes/replies/template.php:2036 includes/topics/template.php:2617
+#: templates/default/bbpress/form-topic-tag.php:88
+#: templates/default/bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr "Törlés"
+
+#: includes/replies/template.php:1695
+msgid "Cancel"
+msgstr "Megszakítás"
+
+#: includes/replies/template.php:1210 includes/topics/template.php:1481
+#: includes/users/template.php:1651
+msgid "Visit %s's website"
+msgstr "%s webhely meglátogatása"
+
+#: includes/replies/template.php:1210 includes/topics/template.php:1481
+#: includes/users/template.php:1651
+msgid "View %s's profile"
+msgstr "%s adatlapjának megtekintése"
+
+#: includes/replies/template.php:1098 includes/topics/template.php:1368
+#: includes/users/template.php:184
+msgid "Anonymous"
+msgstr "Névtelen"
+
+#: includes/replies/template.php:806
+msgid "This reply was modified %1$s by %2$s."
+msgstr "A hozzászólás módosításra került: %1$s-%2$s."
+
+#: includes/replies/template.php:804
+msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
+msgstr "A hozzászólás módosításra került: %1$s-%2$s. Indok: %3$s"
+
+#: includes/replies/template.php:706 includes/topics/template.php:809
+msgctxt "date at time"
+msgid "%1$s at %2$s"
+msgstr "%1$s-%2$s"
+
+#: includes/replies/template.php:60
+msgid "No replies found in Trash"
+msgstr "Nincs hozzászólás a lomtárban"
+
+#: includes/replies/template.php:59
+msgid "No replies found"
+msgstr "Nincs hozzászólás"
+
+#: includes/replies/template.php:58
+msgid "Search Replies"
+msgstr "Hozzászólás keresés"
+
+#: includes/replies/template.php:56 includes/replies/template.php:57
+msgid "View Reply"
+msgstr "Hozzászólás megtekintés"
+
+#: includes/replies/template.php:54
+msgid "Edit Reply"
+msgstr "Hozzászólás szerkesztés"
+
+#: includes/replies/template.php:52
+msgid "Create New Reply"
+msgstr "Új hozzászólás"
+
+#: includes/replies/template.php:51 includes/replies/template.php:55
+msgid "New Reply"
+msgstr "Új hozzászólás"
+
+#: includes/replies/functions.php:2034 includes/topics/functions.php:3464
+msgid "Replies: %s"
+msgstr "Hozzászólások: %s"
+
+#: includes/replies/functions.php:1992
+msgid "All Posts"
+msgstr "Összes bejegyzés"
+
+#: includes/replies/functions.php:1578
+msgid "<strong>ERROR</strong>: There was a problem deleting the reply!"
+msgstr "<strong>HIBA</strong>: Probléma történt a hozzászólás törlésekor."
+
+#: includes/replies/functions.php:1570
+msgid "<strong>ERROR</strong>: There was a problem untrashing the reply!"
+msgstr "<strong>HIBA</strong>: Probléma merült fel a hozzászólás lomtárból történő visszahelyezésekor."
+
+#: includes/replies/functions.php:1562
+msgid "<strong>ERROR</strong>: There was a problem trashing the reply!"
+msgstr "<strong>HIBA</strong>: Probléma merült fel a hozzászólás lomtárba helyezésekor."
+
+#: includes/replies/functions.php:1543
+msgid "<strong>ERROR</strong>: There was a problem marking the reply as spam!"
+msgstr "<strong>HIBA</strong>: Probléma merült fel a hozzászólás spamként történő megjelölésénél."
+
+#: includes/replies/functions.php:1543
+msgid "<strong>ERROR</strong>: There was a problem unmarking the reply as spam!"
+msgstr "<strong>HIBA</strong>: Probléma merült fel a hozzászólás nem-spamként történő megjelölésénél."
+
+#: includes/replies/functions.php:1530
+msgid "<strong>ERROR:</strong> You do not have the permission to do that!"
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a művelet elvégzéséhez."
+
+#: includes/replies/functions.php:1349 includes/topics/functions.php:1538
+msgid "<strong>ERROR</strong>: You do not have the permissions to create new topics. The reply could not be converted into a topic."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság új témakörök létrehozására. A hozzászólás nem konvertálható át témakörré."
+
+#: includes/replies/functions.php:1344 includes/topics/functions.php:1533
+msgid "<strong>ERROR</strong>: There was a problem converting the reply into the topic. Please try again."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a hozzászólás témakörré konvertálásakor. Próbáljuk újra."
+
+#: includes/replies/functions.php:1299 includes/replies/template.php:571
+#: includes/topics/functions.php:1294 includes/topics/functions.php:1652
+#: templates/default/bbpress/form-reply.php:29
+msgid "Reply To: %s"
+msgstr "Hozzászólás: %s"
+
+#: includes/replies/functions.php:1290 includes/topics/functions.php:1496
+msgid "<strong>ERROR</strong>: You do not have the permissions to edit the destination topic!"
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a céltémakör szerkesztésére."
+
+#: includes/replies/functions.php:1285
+msgid "<strong>ERROR</strong>: The topic you want to move to was not found!"
+msgstr "<strong>HIBA</strong>: A téma, ahova áthelyezni akarsz, nem létezik."
+
+#: includes/replies/functions.php:1275 includes/topics/functions.php:1483
+msgid "<strong>ERROR</strong>: Destination topic ID not found!"
+msgstr "<strong>HIBA</strong>: A céltémakör azonosítója nem található."
+
+#: includes/replies/functions.php:1262
+msgid "<strong>ERROR</strong>: You need to choose a valid move option."
+msgstr "<strong>HIBA</strong>: Érvényes áthelyezési opciót kell választani."
+
+#: includes/replies/functions.php:1252 includes/topics/functions.php:1164
+#: includes/topics/functions.php:1462
+msgid "<strong>ERROR</strong>: You do not have the permissions to edit the source topic."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a forrástémakör szerkesztéséhez."
+
+#: includes/replies/functions.php:1241
+msgid "<strong>ERROR</strong>: The topic you want to move from was not found."
+msgstr "<strong>HIBA</strong>: A téma, ahonnan áthelyezni akarsz, nem található."
+
+#: includes/replies/functions.php:1232
+msgid "<strong>ERROR</strong>: The reply you want to move was not found."
+msgstr "<strong>HIBA</strong>: A hozzászólás, amit áthelyezni szeretnénk, nem található."
+
+#: includes/replies/functions.php:1223
+msgid "<strong>ERROR</strong>: Reply ID to move not found!"
+msgstr "<strong>HIBA</strong>: Áthelyezett hozzászólás ID nem található!"
+
+#: includes/replies/functions.php:616
+msgid "<strong>ERROR</strong>: Your reply cannot be edited at this time."
+msgstr "<strong>HIBA</strong>: A hozzászólás jelenleg nem szerkeszthető."
+
+#: includes/replies/functions.php:533
+msgid "<strong>ERROR</strong>: You do not have permission to edit that reply."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a hozzászólás szerkesztéséhez."
+
+#: includes/replies/functions.php:522
+msgid "<strong>ERROR</strong>: The reply you want to edit was not found."
+msgstr "<strong>HIBA</strong>: A szerkesztendő hozzászólás nem található."
+
+#: includes/replies/functions.php:505
+msgid "<strong>ERROR</strong>: Reply ID not found."
+msgstr "<strong>HIBA</strong>:  A hozzászólás azonosító ID nem található."
+
+#: includes/replies/functions.php:377 includes/replies/functions.php:702
+msgid "<strong>ERROR</strong>: There was a problem adding the tags to the topic."
+msgstr "<strong>HIBA</strong>: Probléma merült fel a címkék témakörhöz adásakor."
+
+#: includes/replies/functions.php:318
+msgid "<strong>ERROR</strong>: Topic is closed."
+msgstr "<strong>HIBA</strong>: A téma lezárva."
+
+#: includes/replies/functions.php:294
+msgid "<strong>ERROR</strong>: Your reply cannot be created at this time."
+msgstr "<strong>HIBA</strong>: Jelenleg nem lehet hozzászólást beküldeni."
+
+#: includes/replies/functions.php:289
+msgid "<strong>ERROR</strong>: Duplicate reply detected; it looks as though you&#8217;ve already said that!"
+msgstr "<strong>HIBA</strong>: Duplikált hozzászólást érzékeltünk. Úgy tűnik a hozzászólás már egyszer beküldésre került."
+
+#: includes/replies/functions.php:279 includes/replies/functions.php:611
+msgid "<strong>ERROR</strong>: Your reply cannot be empty."
+msgstr "<strong>HIBA</strong>: A hozzászólás tartalma nem lehet üres."
+
+#: includes/replies/functions.php:246 includes/replies/functions.php:587
+msgid "<strong>ERROR</strong>: This forum is hidden and you do not have the capability to read or create new replies in it."
+msgstr "<strong>HIBA</strong>: Ez egy rejtett fórum, nem mindenki részére engedélyezett az olvasás és a hozzászólás."
+
+#: includes/replies/functions.php:240 includes/replies/functions.php:581
+msgid "<strong>ERROR</strong>: This forum is private and you do not have the capability to read or create new replies in it."
+msgstr "<strong>HIBA</strong>: Ez egy személyes fórum, nem mindenki részére engedélyezett az olvasás és a hozzászólás."
+
+#: includes/replies/functions.php:234 includes/replies/functions.php:575
+msgid "<strong>ERROR</strong>: This forum has been closed to new replies."
+msgstr "<strong>HIBA</strong>: Ehhez a fórumhoz nem lehet új hozzászólást tenni."
+
+#: includes/replies/functions.php:227 includes/replies/functions.php:568
+msgid "<strong>ERROR</strong>: This forum is a category. No replies can be created in this forum."
+msgstr "<strong>HIBA</strong>: Ez a fórum egy kategória, ebben a fórumban nem lehet hozzászólni."
+
+#: includes/replies/functions.php:213 includes/topics/functions.php:218
+msgid "<strong>ERROR</strong>: Forum does not exist."
+msgstr "<strong>HIBA</strong>: A fórum nem létezik"
+
+#: includes/replies/functions.php:209 includes/topics/functions.php:214
+msgid "<strong>ERROR</strong>: Forum ID cannot be a negative number."
+msgstr "<strong>HIBA</strong>: A fórum azonosítója (ID) nem lehet negatív szám."
+
+#: includes/replies/functions.php:195 includes/topics/functions.php:200
+msgid "<strong>ERROR</strong>: Forum ID must be a number."
+msgstr "<strong>HIBA</strong>: A fórum azonosító (ID) csak számkarakter lehet.."
+
+#: includes/replies/functions.php:191 includes/replies/functions.php:205
+#: includes/topics/functions.php:196 includes/topics/functions.php:210
+#: includes/topics/functions.php:535
+msgid "<strong>ERROR</strong>: Forum ID is missing."
+msgstr "<strong>HIBA</strong>: Hiányzik a fórum azonosító."
+
+#: includes/replies/functions.php:172
+msgid "<strong>ERROR</strong>: Topic does not exist."
+msgstr "<strong>HIBA</strong>: A téma nem létezik."
+
+#: includes/replies/functions.php:168
+msgid "<strong>ERROR</strong>: Topic ID cannot be a negative number."
+msgstr "<strong>HIBA</strong>: A téma azonosítója (ID) nem lehet negatív szám."
+
+#: includes/replies/functions.php:158
+msgid "<strong>ERROR</strong>: Topic ID must be a number."
+msgstr "<strong>HIBA</strong>: A téma azonosító (ID) csak számkarakter lehet.."
+
+#: includes/replies/functions.php:154
+msgid "<strong>ERROR</strong>: Topic ID is missing."
+msgstr "<strong>HIBA</strong>: Hiányzik a témakör azonosító."
+
+#: includes/replies/functions.php:142
+msgid "<strong>ERROR</strong>: You do not have permission to reply."
+msgstr "<strong>HIBA</strong>: Nincs lehetőség a hozzászóláshoz."
+
+#: includes/forums/template.php:2021
+msgid "This forum is empty."
+msgstr "Ez a fórum üres."
+
+#: includes/forums/template.php:2017
+msgid "This forum contains %1$s."
+msgstr "Ennek a fórumnak a tartalma: %1$s."
+
+#: includes/forums/template.php:2015
+msgid "This category contains %1$s."
+msgstr "A kategória tartalma: %1$s."
+
+#: includes/forums/template.php:2007
+msgid "This forum contains %1$s and %2$s."
+msgstr "A fórum tartalma: %1$s és %2$s."
+
+#: includes/forums/template.php:2005
+msgid "This category contains %1$s and %2$s."
+msgstr "A kategória tartalma: %1$s és %2$s."
+
+#: includes/forums/template.php:1995
+msgid "This forum contains %1$s, and was last updated by %2$s %3$s."
+msgstr "A fórum tartalma: %1$s, utoljára frissítette %2$s %3$s."
+
+#: includes/forums/template.php:1993
+msgid "This category contains %1$s, and was last updated by %2$s %3$s."
+msgstr "Ennek a kategóriának a tartalma: %1$s, utolsó frissítés: %2$s %3$s."
+
+#: includes/forums/template.php:1987
+msgid "This forum contains %1$s and %2$s, and was last updated by %3$s %4$s."
+msgstr "Ennek a fórumnak a tartalma: %1$s és %2$s, utolsó frissítés: %3$s %4$s."
+
+#: includes/forums/template.php:1985
+msgid "This category contains %1$s and %2$s, and was last updated by %3$s %4$s."
+msgstr "A kategória tartalma: %1$s és %2$s. Utolsó frissítés: %3$s %4$s."
+
+#: includes/forums/template.php:1965 includes/topics/template.php:2102
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s hozzászólás"
+msgstr[1] "%s hozzászólás"
+
+#: includes/forums/template.php:1254 includes/topics/template.php:2118
+msgid " (+ %d hidden)"
+msgstr " (+ %d rejtett)"
+
+#: includes/forums/template.php:1238 includes/forums/template.php:1976
+msgid "%s topic"
+msgid_plural "%s topics"
+msgstr[0] "%s téma"
+msgstr[1] "%s téma"
+
+#: includes/forums/template.php:841 includes/topics/template.php:1847
+#: includes/users/template.php:1059
+msgid "Unsubscribe"
+msgstr "Leiratkozás"
+
+#: includes/forums/template.php:840 includes/topics/template.php:1846
+#: includes/users/template.php:1058
+msgid "Subscribe"
+msgstr "Feliratkozás"
+
+#: includes/forums/template.php:61 templates/default/bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr "Szülőfórum:"
+
+#: includes/forums/template.php:60
+msgid "No forums found in Trash"
+msgstr "Nincs fórum a lomtárban."
+
+#: includes/forums/template.php:59
+msgid "No forums found"
+msgstr "Nincs fórum"
+
+#: includes/forums/template.php:56 includes/forums/template.php:57
+msgid "View Forum"
+msgstr "Fórum megtekintése"
+
+#: includes/forums/template.php:54
+msgid "Edit Forum"
+msgstr "Fórum szerkesztése"
+
+#: includes/forums/template.php:52 templates/default/bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr "Új fórum létrehozása"
+
+#: includes/forums/template.php:51 includes/forums/template.php:55
+msgid "New Forum"
+msgstr "Új fórum"
+
+#: includes/forums/functions.php:1632
+msgctxt "Make forum hidden"
+msgid "Hidden"
+msgstr "Rejtett"
+
+#: includes/forums/functions.php:1631
+msgctxt "Make forum private"
+msgid "Private"
+msgstr "Magánjellegű"
+
+#: includes/forums/functions.php:1630
+msgctxt "Make forum public"
+msgid "Public"
+msgstr "Nyilvános"
+
+#: includes/forums/functions.php:1617
+msgctxt "Forum is a category"
+msgid "Category"
+msgstr "Kategória"
+
+#: includes/forums/functions.php:1616
+msgctxt "Forum accepts new topics"
+msgid "Forum"
+msgstr "Fórum"
+
+#: includes/forums/functions.php:1603
+msgctxt "Close the forum"
+msgid "Closed"
+msgstr "Bezárás"
+
+#: includes/forums/functions.php:1602
+msgctxt "Open the forum"
+msgid "Open"
+msgstr "Nyitás"
+
+#: includes/forums/functions.php:472
+msgid "<strong>ERROR</strong>: Your forum cannot be edited at this time."
+msgstr "<strong>HIBA</strong>: A fórum jelenleg nem szerkeszthető."
+
+#: includes/forums/functions.php:405
+msgid "<strong>ERROR</strong>: You do not have permission to edit that forum."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság a fórum szerkesztéséhez."
+
+#: includes/forums/functions.php:400
+msgid "<strong>ERROR</strong>: The forum you want to edit was not found."
+msgstr "<strong>HIBA</strong>: A szerkesztendő fórum nem található."
+
+#: includes/forums/functions.php:384
+msgid "<strong>ERROR</strong>: Forum ID not found."
+msgstr "<strong>HIBA</strong>: A fórumazonosító nem található."
+
+#: includes/forums/functions.php:220
+msgid "<strong>ERROR</strong>: Your forum cannot be created at this time."
+msgstr "<strong>HIBA</strong>: A fórum jelenleg nem hozható létre."
+
+#: includes/forums/functions.php:215
+msgid "<strong>ERROR</strong>: This forum already exists."
+msgstr "<strong>HIBA</strong>: Ez a fórum már létezik."
+
+#: includes/forums/functions.php:210 includes/replies/functions.php:284
+#: includes/topics/functions.php:260
+msgid "<strong>ERROR</strong>: Slow down; you move too fast."
+msgstr "<strong>HIBA</strong>: Lassítsunk. Túl gyors a tempó."
+
+#: includes/forums/functions.php:203 includes/forums/functions.php:441
+msgid "<strong>ERROR</strong>: This forum is hidden and you do not have the capability to read or create new forums in it."
+msgstr "<strong>HIBA</strong>: Ez egy rejtett fórum, ezért nem olvasható és nem lehet benne fórumokat létrehozni."
+
+#: includes/forums/functions.php:198 includes/forums/functions.php:436
+msgid "<strong>ERROR</strong>: This forum is private and you do not have the capability to read or create new forums in it."
+msgstr "<strong>HIBA</strong>: Ez egy személyes fórum, ezért nem olvasható és nem lehet benne fórumokat létrehozni."
+
+#: includes/forums/functions.php:193 includes/forums/functions.php:431
+msgid "<strong>ERROR</strong>: This forum has been closed to new forums."
+msgstr "<strong>HIBA</strong>:"
+
+#: includes/forums/functions.php:188
+msgid "<strong>ERROR</strong>: This forum is a category. No forums can be created in this forum."
+msgstr "<strong>HIBA</strong>: Ez a fórum egy kategória. Ebben a fórumban nem lehet további fórumokat létrehozni."
+
+#: includes/forums/functions.php:181
+msgid "<strong>ERROR</strong>: Your forum must have a parent."
+msgstr "<strong>HIBA</strong>: Meg kell adni a fórum szülőjét."
+
+#: includes/forums/functions.php:167 includes/forums/functions.php:467
+msgid "<strong>ERROR</strong>: Your forum description cannot be empty."
+msgstr "<strong>HIBA</strong>: A fórum leírása nem lehet üres."
+
+#: includes/forums/functions.php:155 includes/forums/functions.php:455
+msgid "<strong>ERROR</strong>: Your forum needs a title."
+msgstr "<strong>HIBA</strong>: Meg kell adni a fórum címét."
+
+#: includes/forums/functions.php:131
+msgid "<strong>ERROR</strong>: You do not have permission to create new forums."
+msgstr "<strong>HIBA</strong>: Nincs jogosultság új fórumok létrehozásához."
+
+#: includes/extend/buddypress/notifications.php:165
+msgid "<strong>ERROR</strong>: You do not have permission to mark notifications for that user."
+msgstr "<strong>HIBA</strong>: Nincs megfelelő jogosultság a felhasználó értesítéseinek megjelöléséhez."
+
+#: includes/extend/buddypress/notifications.php:57
+msgid "You have %d new reply to %s"
+msgstr "%d új hozzászóllás ehhez: %s"
+
+#: includes/extend/buddypress/notifications.php:55
+msgid "You have %d new reply to %2$s from %3$s"
+msgstr "%d új hozzászólás ehhez: %2$s, tőle: %3$s"
+
+#: includes/extend/buddypress/notifications.php:51
+msgid "You have %d new replies"
+msgstr "%d új hozzászólás"
+
+#: includes/extend/buddypress/notifications.php:48
+msgid "Topic Replies"
+msgstr "Téma Hozzászólások"
+
+#: includes/extend/buddypress/loader.php:293
+#: templates/default/bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr "Feliratkozások"
+
+#: includes/extend/buddypress/loader.php:105
+msgid "Search Forums..."
+msgstr "Fórumok keresése..."
+
+#: includes/extend/buddypress/groups.php:775
+msgid "This group does not currently have a forum."
+msgstr "Ez a csoport jelenleg egyik fórumhoz sem tartozik."
+
+#: includes/extend/buddypress/groups.php:478
+msgid "Group Forum"
+msgstr "Csoport fórum"
+
+#: includes/extend/buddypress/groups.php:437
+msgctxt "group admin edit screen"
+msgid "Discussion Forum"
+msgstr "Fórum beszélgetés"
+
+#: includes/extend/buddypress/groups.php:339
+#: includes/extend/buddypress/groups.php:498
+#: includes/extend/buddypress/notifications.php:161
+#: includes/forums/functions.php:118 includes/forums/functions.php:395
+#: includes/replies/functions.php:116 includes/replies/functions.php:516
+#: includes/replies/functions.php:1246 includes/topics/functions.php:122
+#: includes/topics/functions.php:520 includes/topics/functions.php:1153
+#: includes/topics/functions.php:1456 includes/topics/functions.php:1820
+#: includes/topics/functions.php:1859 includes/topics/functions.php:1916
+#: includes/users/functions.php:459 includes/users/functions.php:1174
+#: includes/users/functions.php:1280 includes/users/functions.php:1407
+#: includes/users/functions.php:1413
+msgid "<strong>ERROR</strong>: Are you sure you wanted to do that?"
+msgstr "<strong>HIBA</strong>: Biztosan ez történjen?"
+
+#: includes/extend/buddypress/groups.php:304
+msgid "Save Settings"
+msgstr "Beállítás mentése"
+
+#: includes/extend/buddypress/groups.php:299
+msgid "Network administrators can reconfigure which forum belongs to this group."
+msgstr "A hálózat adminisztrátora tudja átkonfigurálni, hogy melyik fórum tartozzon ehhez a csoporthoz."
+
+#: includes/extend/buddypress/groups.php:291
+msgid "Group Forum:"
+msgstr "Fórum csoport:"
+
+#: includes/extend/buddypress/groups.php:286
+msgid "Saying no will not delete existing forum content."
+msgstr "Nem esetén a létező fórumtartalom nem kerül törlésre."
+
+#: includes/extend/buddypress/groups.php:283
+#: includes/extend/buddypress/groups.php:483
+msgid "Yes. I want this group to have a forum."
+msgstr "Igen. Szeretném, ha ennek a csoportnak fóruma lenne."
+
+#: includes/extend/buddypress/groups.php:279
+#: includes/extend/buddypress/groups.php:480
+msgid "Create a discussion forum to allow members of this group to communicate in a structured, bulletin-board style fashion."
+msgstr "Beszélgetős fórum létrehozása a csoporttagok részére strukturált fórum formában történő kommunikációhoz."
+
+#: includes/extend/buddypress/groups.php:275
+#: includes/extend/buddypress/groups.php:278
+msgid "Group Forum Settings"
+msgstr "Fórum csoport beállítások"
+
+#: includes/extend/buddypress/activity.php:566
+msgid "%1$s replied to the topic %2$s in the forum %3$s"
+msgstr "%1$s hozzászólt a(z) %2$s című témakörhöz a(z) %3$s című fórumban"
+
+#: includes/extend/buddypress/activity.php:421
+msgid "%1$s started the topic %2$s in the forum %3$s"
+msgstr "%1$s elindított %2$s című témakört %3$s című fórumban"
+
+#: includes/extend/buddypress/activity.php:196
+msgid "New forum reply"
+msgstr "Új fórum hozzászólás"
+
+#: includes/extend/buddypress/activity.php:195
+msgid "New forum topic"
+msgstr "Új fórum téma"
+
+#: includes/extend/akismet.php:793
+msgid "No recorded history. Akismet has not checked this post."
+msgstr "Nincs előzmény. Az Akismet nem ellenőrizte ezt a bejegyzést."
+
+#: includes/extend/akismet.php:735 includes/extend/akismet.php:745
+msgid "Akismet History"
+msgstr "Akismet előzmények"
+
+#: includes/extend/akismet.php:489
+msgid "Akismet was unable to check this post (response: %s), will automatically retry again later."
+msgstr "Az Akismet nem tudta ellenőrizni ezt a bejegyzést (hozzászólás: %s), de később újra megpróbálja."
+
+#: includes/extend/akismet.php:475
+msgid "Akismet cleared this post as not spam"
+msgstr "Akismet megjelölte ezt a bejegyzést, mint nem kéretlen"
+
+#: includes/extend/akismet.php:467 includes/extend/akismet.php:482
+msgid "Post status was changed to %s"
+msgstr "A bejegyzésállapot megváltozott erre: %s"
+
+#: includes/extend/akismet.php:463
+msgid "Akismet caught this post as spam"
+msgstr "Az Akismet spamnak minősítette ezt a bejegyzést"
+
+#: includes/extend/akismet.php:405
+msgid "No response"
+msgstr "Nincs hozzászólás"
+
+#: includes/extend/akismet.php:316
+msgid "%1$s reported this %2$s as not spam"
+msgstr "%1$s nem-spamként jelölte meg ezt: %2$s "
+
+#: includes/extend/akismet.php:309
+msgid "%1$s reported this %2$s as spam"
+msgstr "%1$s spamként jelölte meg ezt: %2$s "
+
+#: includes/core/update.php:191
+msgid "Oh, and this is what a reply looks like."
+msgstr "A hozzászólás így néz ki."
+
+#: includes/core/update.php:190
+msgid "Re: Hello World!"
+msgstr "Vá: Helló világ!"
+
+#: includes/core/update.php:189
+msgid "I am the first topic in your new forums."
+msgstr "Ez az új fórumok első témaköre."
+
+#: includes/core/update.php:188
+msgid "Hello World!"
+msgstr "Helló világ!"
+
+#: includes/core/update.php:187
+msgid "General chit-chat"
+msgstr "Általános csevegés"
+
+#: includes/core/update.php:186
+msgid "General"
+msgstr "Általános"
+
+#: includes/core/capabilities.php:531
+msgid "Editable forum roles no longer exist."
+msgstr "Nincsenek szerkeszthető fórum jogok."
+
+#: includes/common/widgets.php:1252
+msgid "Recent Replies"
+msgstr "Legutóbbi hozzászólások"
+
+#: includes/common/widgets.php:1237
+msgid "Show reply author:"
+msgstr "Hozzászóló megjelenítése:"
+
+#: includes/common/widgets.php:1235
+msgid "Maximum replies to show:"
+msgstr "Maximálisan megjelenítendő hozzászólások:"
+
+#. translators: 1: reply link
+#: includes/common/widgets.php:1184
+msgctxt "widgets"
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: 1: reply author, 2: reply link
+#: includes/common/widgets.php:1178
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s - %2$s"
+
+#. translators: 1: reply link, 2: reply timestamp
+#: includes/common/widgets.php:1172
+msgctxt "widgets"
+msgid "%1$s %2$s"
+msgstr "%1$s-%2$s"
+
+#. translators: 1: reply author, 2: reply link, 3: reply timestamp
+#: includes/common/widgets.php:1166
+msgctxt "widgets"
+msgid "%1$s on %2$s %3$s"
+msgstr "%1$s : %2$s %3$s"
+
+#: includes/common/widgets.php:1081
+msgid "(bbPress) Recent Replies"
+msgstr "(bbPress) Legújabb hozzászólások"
+
+#: includes/common/widgets.php:1078
+msgid "A list of the most recent replies."
+msgstr "A legújabb hozzászólások."
+
+#: includes/common/widgets.php:1048
+msgid "Forum Statistics"
+msgstr "Fórum statisztika"
+
+#: includes/common/widgets.php:951
+msgid "(bbPress) Statistics"
+msgstr "(bbPress) Statisztikák"
+
+#: includes/common/widgets.php:948
+msgid "Some statistics from your forum."
+msgstr "Néhány statisztika a fórumodról."
+
+#: includes/common/widgets.php:914
+msgid "Recent Topics"
+msgstr "Legutóbbi témák"
+
+#: includes/common/widgets.php:897
+msgid "Topics With Recent Replies"
+msgstr "Új válasszal rendelkező témakörök"
+
+#: includes/common/widgets.php:896
+#: templates/default/extras/page-forum-statistics.php:34
+msgid "Popular Topics"
+msgstr "Népszerű témakörök"
+
+#: includes/common/widgets.php:895
+msgid "Newest Topics"
+msgstr "Legújabb témakörök"
+
+#: includes/common/widgets.php:893
+msgid "Order By:"
+msgstr "Rendezés:"
+
+#: includes/common/widgets.php:890
+msgid "Show topic author:"
+msgstr "Témakörszerző megjelenítése:"
+
+#: includes/common/widgets.php:889 includes/common/widgets.php:1236
+msgid "Show post date:"
+msgstr "Bejegyzésdátum megjelenítése:"
+
+#: includes/common/widgets.php:877
+msgid "Maximum topics to show:"
+msgstr "Maximálisan megjelenítendő témakörök száma:"
+
+#: includes/common/widgets.php:815
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr "Indította: %1$s"
+
+#: includes/common/widgets.php:695
+msgid "(bbPress) Recent Topics"
+msgstr "(bbPress) Aktuális témakörök"
+
+#: includes/common/widgets.php:692
+msgid "A list of recent topics, sorted by popularity or freshness."
+msgstr "Népszerűség vagy frissesség szerint rendezett aktuális témakörök listája."
+
+#: includes/common/widgets.php:646 includes/common/widgets.php:886
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr "\"0\" csak a gyökeret jeleníti meg - \"any\" az összeset jeleníti meg"
+
+#: includes/common/widgets.php:640 includes/common/widgets.php:880
+msgid "Parent Forum ID:"
+msgstr "Szülőfórum azonosító:"
+
+#: includes/common/widgets.php:515
+msgid "(bbPress) Forums List"
+msgstr "(bbPress) Fórumlista"
+
+#: includes/common/widgets.php:512
+msgid "A list of forums with an option to set the parent."
+msgstr "Szülőként beállítható opcióval rendelkező fórumok listája."
+
+#: includes/common/widgets.php:483 includes/forums/template.php:58
+msgid "Search Forums"
+msgstr "Fórumok keresése"
+
+#: includes/common/widgets.php:387
+msgid "(bbPress) Forum Search Form"
+msgstr "(bbPress) Fórum kereső form"
+
+#: includes/common/widgets.php:384
+msgid "The bbPress forum search form."
+msgstr "A bbPress fórum kereső form."
+
+#: includes/common/widgets.php:246
+msgid "(bbPress) Topic Views List"
+msgstr "(bbPress) Témakör megtekintés lista"
+
+#: includes/common/widgets.php:243
+msgid "A list of registered optional topic views."
+msgstr "A regisztrált opcionális témakörnézetek listája."
+
+#: includes/common/widgets.php:195
+msgid "Lost Password URI:"
+msgstr "Elfelejtett jelszó URI:"
+
+#: includes/common/widgets.php:190
+msgid "Register URI:"
+msgstr "Regisztráció URI:"
+
+#: includes/common/widgets.php:185 includes/common/widgets.php:337
+#: includes/common/widgets.php:465 includes/common/widgets.php:634
+#: includes/common/widgets.php:876 includes/common/widgets.php:1030
+#: includes/common/widgets.php:1234
+msgid "Title:"
+msgstr "Cím:"
+
+#: includes/common/widgets.php:128
+#: templates/default/bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "Elfelejtett jelszó"
+
+#: includes/common/widgets.php:122
+#: templates/default/bbpress/form-user-register.php:36
+msgid "Register"
+msgstr "Regisztráció"
+
+#: includes/common/widgets.php:103
+msgid "Remember Me"
+msgstr "Emlékezzen rám"
+
+#: includes/common/widgets.php:97
+#: templates/default/bbpress/form-user-login.php:22
+msgid "Password"
+msgstr "Jelszó"
+
+#: includes/common/widgets.php:92
+#: templates/default/bbpress/form-user-edit.php:98
+#: templates/default/bbpress/form-user-login.php:17
+#: templates/default/bbpress/form-user-register.php:23
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: includes/common/widgets.php:89 includes/common/widgets.php:110
+#: templates/default/bbpress/form-user-login.php:14
+#: templates/default/bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr "Bejelentkezés"
+
+#: includes/common/widgets.php:42
+msgid "(bbPress) Login Widget"
+msgstr "(bbPress) Bejelentkező kisalkalmazás"
+
+#: includes/common/widgets.php:39
+msgid "A simple login form with optional links to sign-up and lost password pages."
+msgstr "Önálló bejelentkezési űrlap regisztrációs és elfelejtett jelszó visszaszerző oldalra mutató hivatkozásokkal."
+
+#: includes/common/template.php:2646
+msgid "View: %s"
+msgstr "Megtekintés: %s"
+
+#: includes/common/template.php:2638
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit %s's Profile"
+msgstr "%s Adatlapjának Szerkesztése"
+
+#: includes/common/template.php:2633
+msgid "Edit Your Profile"
+msgstr "Adatmódosítás"
+
+#: includes/common/template.php:2625
+msgid "%s Profile"
+msgstr "%s adatlap"
+
+#: includes/common/template.php:2621
+msgid "%s Subscriptions"
+msgstr "%s feliratkozás"
+
+#: includes/common/template.php:2617
+msgid "%s Favorites"
+msgstr "%s kedvenc"
+
+#: includes/common/template.php:2613
+msgid "%s Replies"
+msgstr "%s hozzászólás"
+
+#: includes/common/template.php:2609
+msgid "%s Topics"
+msgstr "%s Témái"
+
+#: includes/common/template.php:2604
+msgctxt "User viewing another users profile"
+msgid "%s's"
+msgstr "%s"
+
+#: includes/common/template.php:2600
+msgctxt "User viewing his/her own profile"
+msgid "Your"
+msgstr "Saját adatlap"
+
+#: includes/common/template.php:2582
+msgid "Topic: %s"
+msgstr "Témakör: %s"
+
+#: includes/common/template.php:2577
+msgid "Forum: %s"
+msgstr "Fórum: %s"
+
+#: includes/common/template.php:2570
+msgid "Topic Tag Edit: %s"
+msgstr "%s téma-címke szerkesztés"
+
+#: includes/common/template.php:2565
+msgid "Reply Edit: %s"
+msgstr "%s hozzászólás szerkesztés"
+
+#: includes/common/template.php:2560
+msgid "Topic Edit: %s"
+msgstr "%s téma szerkesztés"
+
+#: includes/common/template.php:2555
+msgid "Forum Edit: %s"
+msgstr "%s fórum szerkesztés"
+
+#: includes/common/template.php:2501
+msgid "Log Out"
+msgstr "Kijelentkezés"
+
+#: includes/common/template.php:2233
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: includes/common/template.php:2233
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: includes/common/template.php:2216 includes/forums/template.php:53
+#: includes/replies/template.php:53 includes/replies/template.php:1910
+#: includes/topics/template.php:53 includes/topics/template.php:2491
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: includes/common/template.php:2212 includes/common/template.php:2326
+#: includes/common/template.php:2591 includes/core/theme-compat.php:739
+#: templates/default/extras/taxonomy-topic-tag-edit.php:17
+#: templates/default/extras/taxonomy-topic-tag.php:17
+msgid "Topic Tag: %s"
+msgstr "Témakör címke: %s"
+
+#: includes/common/template.php:2208
+msgid "(Edit)"
+msgstr "(Szerkeszt)"
+
+#: includes/common/template.php:2138
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: includes/common/template.php:1467
+msgid "None available"
+msgstr "Semmi nem érhető el"
+
+#: includes/common/template.php:1462
+msgid "No forums available"
+msgstr "Nincs elérhető fórum."
+
+#: includes/common/template.php:1457
+msgid "No topics available"
+msgstr "Nincs elérhető témakör."
+
+#: includes/common/functions.php:2026
+msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
+msgstr "A feltételes lekérdezési címkék nem működnek a lekérdezés futtatása előtt. Az előtt mindig false értéket adnak vissza."
+
+#: includes/common/functions.php:1256
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Topic Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s írta:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Téma Hivatkozás: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Azért kapod ezt az emailt, mert feliratkoztál egy fórumra.\n"
+"\n"
+"Jelentkezz be és látogasd meg a témát, hogy leiratkozz az ehhez hasonló emailekről."
+
+#: includes/common/functions.php:1099
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Post Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum topic.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s írta:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Bejegyzés hivatkozás: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Azért küldtük ezt az emailt, mert a fórumtémakörre feliratkozás történt.\n"
+"\n"
+"Az ilyen emailek letiltásához be kell jelentkezni és meg kell keresi azt a témakört, amelyről szeretnénk leiratkozni."
+
+#: includes/common/functions.php:628
+msgid "<strong>ERROR</strong>: Invalid email address submitted!"
+msgstr "<strong>HIBA</strong>: A beküldött email cím érvénytelen."
+
+#: includes/common/functions.php:624
+msgid "<strong>ERROR</strong>: Invalid author name submitted!"
+msgstr "<strong>HIBA</strong>: A beküldött szerzőnév érvénytelen."
+
+#: includes/common/functions.php:514 includes/common/functions.php:546
+msgid "Trashed: %s"
+msgstr "Lomtárban: %s"
+
+#: includes/common/functions.php:513 includes/common/functions.php:545
+msgid "Spammed: %s"
+msgstr "Spammelt: %s"
+
+#: includes/common/functions.php:512 includes/common/functions.php:544
+msgid "Private: %s"
+msgstr "Magánjellegű: %s"
+
+#: includes/common/functions.php:179
+msgctxt "Separator in time since"
+msgid ","
+msgstr ","
+
+#: includes/common/functions.php:124
+msgid "second"
+msgstr "másodperc"
+
+#: includes/common/functions.php:123
+msgid "minute"
+msgstr "perc"
+
+#: includes/common/functions.php:122
+msgid "hours"
+msgstr "órája"
+
+#: includes/common/functions.php:122
+msgid "hour"
+msgstr "óra"
+
+#: includes/common/functions.php:121
+msgid "days"
+msgstr "napja"
+
+#: includes/common/functions.php:121
+msgid "day"
+msgstr "nap"
+
+#: includes/common/functions.php:120
+msgid "weeks"
+msgstr "hete"
+
+#: includes/common/functions.php:120
+msgid "week"
+msgstr "hét"
+
+#: includes/common/functions.php:119
+msgid "months"
+msgstr "hónapja"
+
+#: includes/common/functions.php:119
+msgid "month"
+msgstr "hónap"
+
+#: includes/common/functions.php:118
+msgid "years"
+msgstr "éve"
+
+#: includes/common/functions.php:118
+msgid "year"
+msgstr "év"
+
+#: includes/common/functions.php:114
+msgid "%s ago"
+msgstr "%s telt el"
+
+#: includes/common/functions.php:113
+msgid "right now"
+msgstr "éppen most"
+
+#: includes/common/functions.php:112
+msgid "sometime"
+msgstr "néha"
+
+#: includes/admin/users.php:217
+msgid "Site Role"
+msgstr "Oldal szerepkör"
+
+#: includes/admin/users.php:144
+msgid "Change"
+msgstr "Módosítás"
+
+#: includes/admin/users.php:138 includes/admin/users.php:140
+msgid "Change forum role to&hellip;"
+msgstr "Fórumszerep változtatása erre&hellip;"
+
+#: includes/admin/users.php:96 includes/admin/users.php:100
+#: includes/users/template.php:1290
+msgid "&mdash; No role for these forums &mdash;"
+msgstr "&mdash; Nincs szerepe ezeken a fórumokon &mdash;"
+
+#: includes/admin/users.php:87 includes/admin/users.php:218
+#: templates/default/bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr "Fórum szabály"
+
+#: includes/admin/topics.php:953
+msgid "Topic draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "A témakör vázlat frissítésre került. <a target=\"_blank\" href=\"%s\">Témakör előnézet</a>"
+
+#: includes/admin/topics.php:946
+msgid "Topic scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview topic</a>"
+msgstr "Témakör időzítés: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Témakör előnézet</a>"
+
+#: includes/admin/topics.php:943
+msgid "Topic submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "A témakör beküldésre került. <a target=\"_blank\" href=\"%s\">Témakör előnézet</a>"
+
+#: includes/admin/topics.php:940
+msgid "Topic saved."
+msgstr "A témakör mentésre került."
+
+#: includes/admin/topics.php:937
+msgid "Topic created. <a href=\"%s\">View topic</a>"
+msgstr "A témakör létrejött. <a href=\"%s\">Témakör megtekintése</a>"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/topics.php:933
+msgid "Topic restored to revision from %s"
+msgstr "A témakör visszaállításra került %s állapotából"
+
+#: includes/admin/topics.php:928
+msgid "Topic updated."
+msgstr "A témakör frissítésre került."
+
+#: includes/admin/topics.php:919
+msgid "Topic updated. <a href=\"%s\">View topic</a>"
+msgstr "A témakör frissítésre került. <a href=\"%s\">Témakör megtekintése</a>"
+
+#: includes/admin/topics.php:809
+msgid "Mark this topic as spam"
+msgstr "Témakör megjelölése spamként"
+
+#: includes/admin/topics.php:807
+msgid "Mark the topic as not spam"
+msgstr "Témakör megjelölése nem-spamként"
+
+#: includes/admin/topics.php:800 includes/topics/template.php:2747
+msgid "(to front)"
+msgstr "(az elejére)"
+
+#: includes/admin/topics.php:800
+msgid "Stick this topic to front"
+msgstr "Témakör rögzítése elől"
+
+#: includes/admin/topics.php:800 includes/topics/template.php:2745
+msgid "Stick"
+msgstr "Rögzítés"
+
+#: includes/admin/topics.php:800
+msgid "Stick this topic to its forum"
+msgstr "Témakör rögzítése a fórumához"
+
+#: includes/admin/topics.php:797 includes/topics/template.php:2746
+msgid "Unstick"
+msgstr "Feloldás"
+
+#: includes/admin/topics.php:797
+msgid "Unstick this topic"
+msgstr "Témakör felszabadítása"
+
+#: includes/admin/topics.php:788
+msgctxt "Open a Topic"
+msgid "Open"
+msgstr "Nyitás"
+
+#: includes/admin/topics.php:788
+msgid "Open this topic"
+msgstr "Témakör megnyitása"
+
+#: includes/admin/topics.php:786
+msgctxt "Close a Topic"
+msgid "Close"
+msgstr "Lezárás"
+
+#: includes/admin/topics.php:786
+msgid "Close this topic"
+msgstr "Témakör lezárása"
+
+#: includes/admin/topics.php:729 includes/topics/template.php:2064
+msgid "No Replies"
+msgstr "Nincs hozzászólás"
+
+#: includes/admin/topics.php:694 includes/extend/buddypress/groups.php:295
+#: templates/default/bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr "(nincs fórum)"
+
+#: includes/admin/topics.php:635 templates/default/bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr "Résztvevők"
+
+#: includes/admin/topics.php:599
+msgid "Topic \"%1$s\" successfully unmarked as spam."
+msgstr "\"%1$s\" témakör sikeresen nem-spamnak lett megjelölve."
+
+#: includes/admin/topics.php:599
+msgid "There was a problem unmarking the topic \"%1$s\" as spam."
+msgstr "\"%1$s\" nem-spamként megjelölésekor probléma merült fel."
+
+#: includes/admin/topics.php:595
+msgid "Topic \"%1$s\" successfully marked as spam."
+msgstr "\"%1$s\" témakör sikeresen spamnak lett megjelölve."
+
+#: includes/admin/topics.php:595
+msgid "There was a problem marking the topic \"%1$s\" as spam."
+msgstr "\"%1$s\" témakör spamként megjelölésekor probléma merült fel."
+
+#: includes/admin/topics.php:591
+msgid "Topic \"%1$s\" successfully unsticked."
+msgstr "\"%1$s\" témakör rögzítése sikeresen feloldásra került."
+
+#: includes/admin/topics.php:591
+msgid "There was a problem unsticking the topic \"%1$s\"."
+msgstr "\"%1$s\" témakör rögzítésének feloldásakor probléma merült fel.."
+
+#: includes/admin/topics.php:587
+msgid "Topic \"%1$s\" successfully sticked."
+msgstr "\"%1$s\" témakör sikeresen rögzítésre került."
+
+#: includes/admin/topics.php:587
+msgid "There was a problem sticking the topic \"%1$s\"."
+msgstr "\"%1$s\" témakör rögzítésekor probléma merült fel."
+
+#: includes/admin/topics.php:583
+msgid "Topic \"%1$s\" successfully sticked to front."
+msgstr "\"%1$s\" témakör rögzítésre került."
+
+#: includes/admin/topics.php:583
+msgid "There was a problem sticking the topic \"%1$s\" to front."
+msgstr "\"%1$s\" témakör rögzítésekor probléma merült fel."
+
+#: includes/admin/topics.php:579
+msgid "Topic \"%1$s\" successfully closed."
+msgstr "\"%1$s\" témakör sikeresen lezárásra került."
+
+#: includes/admin/topics.php:579
+msgid "There was a problem closing the topic \"%1$s\"."
+msgstr "\"%1$s\" témakör lezárásakor probléma merült fel."
+
+#: includes/admin/topics.php:575
+msgid "Topic \"%1$s\" successfully opened."
+msgstr "\"%1$s\" témakör sikeresen megnyitásra került."
+
+#: includes/admin/topics.php:575
+msgid "There was a problem opening the topic \"%1$s\"."
+msgstr "Probléma merült fel a témakör megnyitásakor: \"%1$s\"."
+
+#: includes/admin/topics.php:485
+msgid "The topic was not found!"
+msgstr "A témakör nem található"
+
+#: includes/admin/topics.php:223
+msgid "<strong>Topic Type</strong> dropdown indicates the sticky status of the topic. Selecting the super sticky option would stick the topic to the front of your forums, i.e. the topic index, sticky option would stick the topic to its respective forum. Selecting normal would not stick the topic anywhere."
+msgstr "A <strong>Témakörtípus</strong> legördülő menü jelzi a témakör kiemelt állapotát. A szuper kiemelt beállítás a témakört a fórumok elején jeleníti meg, például a fórumindexben. Az egyszerű kiemelt beállítás a megfelelő fórumban emeli ki a témakört. A normál beállítás a témakör nem válik kiemeltté."
+
+#: includes/admin/topics.php:222
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the topic belongs to. Select the forum or category from the dropdown, or leave the default (No Forum) to post the topic without an assigned forum."
+msgstr "A <strong>Fórum</strong> legördülő lista határozza meg a témakör szülőfórumát. Válasszuk ki a fórumot vagy kategóriát vagy hagyjuk alapértelmezettként (Nincs fórum) a témakör beküldéséhez hozzárendelt fórum nélkül."
+
+#: includes/admin/topics.php:220
+msgid "Select the attributes that your topic should have:"
+msgstr "Válasszuk ki a témakör attribútumait:"
+
+#: includes/admin/topics.php:218 includes/admin/topics.php:255
+msgid "Topic Attributes"
+msgstr "Témakör attribútumok"
+
+#: includes/admin/topics.php:213
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your topic without inserting it. This is usually useful only if your theme makes use of the featured image as a topic thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Kiemelt kép</strong> - Ez lehetővé teszi kép társítását egy témakörhöz beszúrás nélkül. Ez általában csak akkor hasznos, ha a téma témakör bélyegképként tudja használni a kiemelt képet a címlapon, egyedi fejlécben, stb."
+
+#: includes/admin/topics.php:210
+msgid "<strong>Publish</strong> - You can set the terms of publishing your topic in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a topic or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a topic to be published in the future or backdate a topic."
+msgstr "<strong>Publikálás</strong> - Beállíthatók a fórum publikálásának feltételei a Publikálási dobozban. Az Állapot, Láthatóság és Publikálás (közvetlen) lehetőségekhez kattintsunk a Szerkesztés hivatkozáson további opciók eléréséhez.  A Láthatóság beállításokat tartalmaz a hozzászólások jelszóvédelméhez vagy azok blog oldal tetején való rögzítéséhez meghatározatlan időre (kiemelt). A Publikálás (közvetlen) lehetővé teszi a megjelenés időzítését (mettől meddig látható)."
+
+#: includes/admin/topics.php:207
+msgid "<strong>Topic Editor</strong> - Enter the text for your topic. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your topic text. You can insert media files by clicking the icons above the topic editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular topic editor."
+msgstr "<strong>Fórum szerkesztő</strong> - Adjuk meg a fórumhoz tartozó szöveget.A szerkesztésnek két módja van: Vizuális és HTML. A kettő közül a megfelelő fülre kattintással lehet választani. A Vizuális mód a fejlett szövegszerkesztőt jeleníti meg. Az eszköztár jobb szélső ikonjával egy második eszköztársor jelenítő meg. A HTML módban tiszta HTML kódokat lehet bevinni a fórumszövegbe. Médiafájlokat a fórumszerkesztő feletti ikonokkal. A Teljes kényernyő ikonnal egy nagy méretű szerkesztőfelület jelenik meg Vizuális módban (felső sor jobbról a második ikon) vagy a Teljes képernyő gomb HTML módban (a sor jobb szélén). A gombokat itt a felső terület fölé helyezve lehet megjeleníteni. A Teljes képernyős szerkesztő módból kilépve a hagyományos fórumszerkesztőbe lépünk vissza."
+
+#: includes/admin/topics.php:206
+msgid "<strong>Title</strong> - Enter a title for your topic. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Cím</strong> - A témakör címének megadása. A cím megadása után lentebb megjelenik a szerkeszthető keresőbarát útvonal."
+
+#: includes/admin/topics.php:204
+msgid "Title and Topic Editor"
+msgstr "Cím és témakör szerkesztő"
+
+#: includes/admin/topics.php:194
+msgid "The title field and the big topic editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "A cím mező és a nagy fórumszerkesztő terület helyben marad, de az összes egyéb doboz áthelyezhető vonszolásos technikával és becsukható vagy kinyitható a dobozok címsávjára kattintva. A Képernyőopciók fül használatával megjeleníthető több doboz (Kivonat, Visszakövetés küldése, Egyedi mezők, Beszélgetés, Keresőbarát név, Szerző) vagy választható az egy-vagy kétoszlopos megjelenés."
+
+#: includes/admin/topics.php:173
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected topics at once. To remove a topic from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Csoportos szerkesztés esetében megváltoztathatók a metaadatok (kategóriák, szerző, stb.) minden kiválasztott fórumra vonatkoztatva. Fórum csoportosításból történő eltávolításához kattintsunk a Csoportos szerkesztés területén annak nevére."
+
+#: includes/admin/topics.php:172
+msgid "You can also edit or move multiple topics to the trash at once. Select the topics you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Egyszerre több témakör szerkeszthető vagy helyezhető lomtárba. Válasszuk ki a művelethez a hozzászólásokat a jelölő dobozok segítségével, majd válasszuk ki a végrehajtandó műveletet a Kötegelt műveletek menüből és kattintsunk az Alkalmazás gombra."
+
+#: includes/admin/topics.php:163
+msgid "<strong>Stick <em>(to front)</em></strong> will keep the selected topic &#8217;pinned&#8217; to the top of ALL forums and be visable in any forums topics list."
+msgstr "A <strong>Rögzített <em>(címlapon)</em></strong> lehetőség a kiválasztott témakört az ÖSSZES fórum tetején &#8217;rögzíti&#8217; és megjeleníti bármelyik fórumtémakör listában."
+
+#: includes/admin/topics.php:162
+msgid "<strong>Stick</strong> will keep the selected topic &#8217;pinned&#8217; to the top the parent forum topic list."
+msgstr "A <strong>Rögzített</strong> beállítás a kiválasztott témakört a szülő fórumlista tetején &#8217;rögzíti&#8217;."
+
+#: includes/admin/topics.php:161
+msgid "<strong>Close</strong> will mark the selected topic as &#8217;closed&#8217; and disable the option to post new replies to the topic."
+msgstr "A <strong>Lezárás</strong> &#8217;lezártnak&#8217; minősíti a kiválasztott témakört és letiltja a hozzászólást a témakörbe."
+
+#: includes/admin/topics.php:160
+msgid "<strong>Preview</strong> will show you what your draft topic will look like if you publish it. View will take you to your live site to view the topic. Which link is available depends on your topic&#8217;s status."
+msgstr "Az <strong>Előnézet</strong> megjeleníti a témakört úgy, ahogy az publikáláskor megjelenne. Az előnézetet az élő webhelyen lehet megtekinteni. Az elérhető hivatkozások a témakör állapotától változhatnak."
+
+#: includes/admin/topics.php:159
+msgid "<strong>Spam</strong> removes your topic from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "A <strong>Spam</strong> eltávolítja a témakört a listából és a spamsorba helyezi. Innen törölhető véglegesen."
+
+#: includes/admin/topics.php:158
+msgid "<strong>Trash</strong> removes your topic from this list and places it in the trash, from which you can permanently delete it."
+msgstr "A <strong>Lomtár</strong> eltávolítja a fórumot a listából és áthelyezi a lomtárba, ahonnan véglegesen törölhető."
+
+#: includes/admin/topics.php:157
+msgid "<strong>Edit</strong> takes you to the editing screen for that topic. You can also reach that screen by clicking on the topic title."
+msgstr "A <strong>Szerkesztés</strong> a fórum szerkesztő képernyőjére vezet. Ugyanazt a képernyőt kapjuk a fórum címére kattintással."
+
+#: includes/admin/topics.php:155
+msgid "Hovering over a row in the topics list will display action links that allow you to manage your topic. You can perform the following actions:"
+msgstr "A témakörlistában az egeret egy sor fölé helyezve megjelennek azok a műveleti hivatkozások, amelyekkel a témakör kezelhető. A következő műveleteket lehet végrehajtani:"
+
+#: includes/admin/topics.php:146
+msgid "You can refine the list to show only topics from a specific month by using the dropdown menus above the topics list. Click the Filter button after making your selection. You also can refine the list by clicking on the topic creator in the topics list."
+msgstr "A lista finomítható a legördülő menü segítségével úgy, hogy csak egy adott hónaptól származó fórumok jelenjenek meg. Kattintsunk a Szűrő gombon a kiválasztás után. A lista finomítható úgy is, hogy a fórum létrehozójára kattintunk."
+
+#: includes/admin/topics.php:145
+msgid "You can filter the list of topics by topic status using the text links in the upper left to show All, Published, or Trashed topics. The default view is to show all topics."
+msgstr "A fórumlista szűrhető a fórum állapota alapján a bal felső sarokban levő szöveges hivatkozások segítségével (összes, publikált, lomtárban levő). Alapértelmezésben az összes fórum megjelenik."
+
+#: includes/admin/topics.php:144
+msgid "You can hide/display columns based on your needs and decide how many topics to list per screen using the Screen Options tab."
+msgstr "A Képernyő opciók fül segítségével igény szerint az oszlopok elrejthetők/megjeleníthetők és beállítható a listában képernyőnként megjelenő témakörök száma."
+
+#: includes/admin/topics.php:134
+msgid "This screen displays the individual topics on your site. You can customize the display of this screen to suit your workflow."
+msgstr "Ez a képernyő megjeleníti a webhely egyedi témaköreit. A képernyő megjelenése testre szabható a munkafolyamatnak megfelelően."
+
+#: includes/admin/tools.php:1370
+msgid "Deleting Roles and Capabilities&hellip; %s"
+msgstr "Szereoek és lehetőségek törlése&hellip; %s"
+
+#: includes/admin/tools.php:1364
+msgid "Deleting Settings&hellip; %s"
+msgstr "Beállítások törlése&hellip; %s"
+
+#: includes/admin/tools.php:1352
+msgid "Deleting Conversion Table&hellip; %s"
+msgstr "Konverziós tábla törlése&hellip; %s"
+
+#: includes/admin/tools.php:1336 includes/admin/tools.php:1344
+msgid "Deleting User Meta&hellip; %s"
+msgstr "Felhasználói metaadatok törlése&hellip; %s"
+
+#: includes/admin/tools.php:1331
+msgid "Deleting User&hellip; %s"
+msgstr "Felhasználó törlés&hellip; %s"
+
+#: includes/admin/tools.php:1316
+msgid "Deleting Topic Tags&hellip; %s"
+msgstr "Téma címkék törölve&hellip; %s"
+
+#: includes/admin/tools.php:1307
+msgid "Deleting Post Meta&hellip; %s"
+msgstr "Bejegyzés metaadatok törlése&hellip; %s"
+
+#: includes/admin/tools.php:1294
+msgid "Deleting Posts&hellip; %s"
+msgstr "Bejegyzések törlése&hellip; %s"
+
+#: includes/admin/tools.php:1287
+msgid "Success!"
+msgstr "Sikerült!"
+
+#: includes/admin/tools.php:1286
+msgid "Failed"
+msgstr "Sikertelen"
+
+#: includes/admin/tools.php:1253
+msgid "Reset bbPress"
+msgstr "bbPress alaphelyzetbe"
+
+#: includes/admin/tools.php:1245
+msgid "Human sacrifice, dogs and cats living together... mass hysteria!"
+msgstr "Emberáldozat, kutya-macska együttélés... tömeghisztéria!"
+
+#: includes/admin/tools.php:1244
+msgid "This process cannot be undone."
+msgstr "A művelet nem vonható vissza."
+
+#: includes/admin/tools.php:1240
+msgid "Are you sure you want to do this?"
+msgstr "Biztosan ezt szeretnénk?"
+
+#: includes/admin/tools.php:1235
+msgid "Note: Resetting without this checked will delete the meta-data necessary to delete these users."
+msgstr "Figyelem: Amennyiben ez nincs bejelölve, a visszaállítás letörli a felhasználók törléséhez szükséges meta-tartalmat."
+
+#: includes/admin/tools.php:1234
+msgid "This option will delete all previously imported users, and cannot be undone."
+msgstr "Ez az opció az összes, előzetesen importált felhasználót törli, és a művelet visszafordíthatatlan."
+
+#: includes/admin/tools.php:1233 includes/admin/tools.php:1243
+msgid "Say it ain't so!"
+msgstr "Mondjuk, hogy ez nem így van!"
+
+#: includes/admin/tools.php:1230
+msgid "Delete imported users?"
+msgstr "Töröljük az importált felhasználókat?"
+
+#: includes/admin/tools.php:1226
+msgid "Importer Helper Data"
+msgstr "Súgóadatok importáló"
+
+#: includes/admin/tools.php:1225
+msgid "Forum User Roles"
+msgstr "Fórum felhasználói szerepek"
+
+#: includes/admin/tools.php:1224
+msgid "Forum Activity"
+msgstr "Fórum aktivitás"
+
+#: includes/admin/tools.php:1223
+msgid "Forum Settings"
+msgstr "Fórum beállítások"
+
+#: includes/admin/tools.php:1222
+msgid "Related Meta Data"
+msgstr "Kapcsolódó metaadatok"
+
+#: includes/admin/tools.php:1221
+msgid "All Topic Tags"
+msgstr "Összes témakör címke"
+
+#: includes/admin/tools.php:1220 includes/replies/functions.php:1994
+#: includes/replies/template.php:50
+msgid "All Replies"
+msgstr "Összes hozzászólás"
+
+#: includes/admin/tools.php:1219 includes/topics/functions.php:3439
+#: includes/topics/template.php:50
+msgid "All Topics"
+msgstr "Összes témakör"
+
+#: includes/admin/tools.php:1218 includes/forums/template.php:50
+msgid "All Forums"
+msgstr "Összes fórum"
+
+#: includes/admin/tools.php:1216
+msgid "The following data will be removed:"
+msgstr "A következő adatok kerülnek eltávolításra:"
+
+#: includes/admin/tools.php:1210
+msgid "Backup your database before proceeding."
+msgstr "A művelet megkezdése előtt mentsük az adatbázist."
+
+#: includes/admin/tools.php:1209
+msgid "Revert your forums back to a brand new installation. This process cannot be undone."
+msgstr "Fórumjaid visszaállítása teljesen új telepítéssé. Ez a folyamat nem visszacsinálható."
+
+#: includes/admin/tools.php:1100
+msgid "Recalculating the topic for each post &hellip; %s"
+msgstr "Témakör újraszámlálása bejegyzésenként &hellip; %s"
+
+#: includes/admin/tools.php:1046
+msgid "Recalculating the forum for each post &hellip; %s"
+msgstr "Fórum újraszámlálása bejegyzésenként &hellip; %s"
+
+#: includes/admin/tools.php:1022
+msgid "Recalculating forum visibility &hellip; %s"
+msgstr "Fórum láthatóság újraszámlálása &hellip; %s"
+
+#: includes/admin/tools.php:965
+msgid "Repairing the sticky topic to the parent forum relationships&hellip; %s"
+msgstr "Szülő fórum kiemelt témájának kapcsolatának helyreállítása&hellip; %s"
+
+#: includes/admin/tools.php:859
+msgid "Recomputing latest post in every topic and forum&hellip; %s"
+msgstr "Legfrissebb bejegyzés számítása témakörönként és fórumonként&hellip; %s"
+
+#: includes/admin/tools.php:843
+msgid "Complete! %s users updated."
+msgstr "Befejezve! %s felhasználó frissítve."
+
+#: includes/admin/tools.php:805
+msgid "Remapping forum role for each user on this site&hellip; %s"
+msgstr "Fórumszerep újratérképezése az összes felhasználónál&hellip; %s"
+
+#: includes/admin/tools.php:743
+msgid "Removing trashed forums from user subscriptions&hellip; %s"
+msgstr "Lomtárba helyezett fórumok eltávolítása a felhasználói feliratkozásokból&hellip; %s"
+
+#: includes/admin/tools.php:682
+msgid "Removing trashed topics from user subscriptions&hellip; %s"
+msgstr "Lomtárba helyezett témakörök eltávolítása felhasználói feliratkozásokból&hellip; %s"
+
+#: includes/admin/tools.php:650 includes/admin/tools.php:711
+#: includes/admin/tools.php:772
+msgid "Nothing to remove!"
+msgstr "Nincs eltávolítandó elem."
+
+#: includes/admin/tools.php:620
+msgid "Removing trashed topics from user favorites&hellip; %s"
+msgstr "Lomtárba helyezett témakörök eltávolítása felhasználói kedvencekből&hellip; %s"
+
+#: includes/admin/tools.php:575
+msgid "Counting the number of topics to which each user has replied&hellip; %s"
+msgstr "Témakörök számlálása hozzászóló felhasználónként&hellip; %s"
+
+#: includes/admin/tools.php:530
+msgid "Counting the number of topics each user has created&hellip; %s"
+msgstr "Témakörök számlálása létrehozó felhasználónként&hellip; %s"
+
+#: includes/admin/tools.php:487
+msgid "Counting the number of replies in each forum&hellip; %s"
+msgstr "Hozzászólások számlálása fórumonként&hellip; %s"
+
+#: includes/admin/tools.php:453
+msgid "Counting the number of topics in each forum&hellip; %s"
+msgstr "Témakörök számlálása minden fórumban&hellip; %s"
+
+#: includes/admin/tools.php:434
+msgid "Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+msgstr "A művelet befejeződött. %s csoport frissítve; %s fórum frissítve; %s fórum státusz szinkronizálva."
+
+#: includes/admin/tools.php:418
+msgid "group-forums"
+msgstr "csoport-forumok"
+
+#: includes/admin/tools.php:417
+msgid "Group Forums"
+msgstr "Csoportfórumok"
+
+#: includes/admin/tools.php:316
+msgid "Repairing BuddyPress group-forum relationships&hellip; %s"
+msgstr "BuddyPress csoportfórum kapcsolatok helyreállítása&hellip; %s"
+
+#: includes/admin/tools.php:291
+msgid "Counting the number of spammed and trashed replies in each topic&hellip; %s"
+msgstr "Spamnak minősített és lomtárba helyezett hozzászólások számlálása minden témakörben&hellip; %s"
+
+#: includes/admin/tools.php:249
+msgid "Counting the number of voices in each topic&hellip; %s"
+msgstr "Résztvevők számlálása minden témában&hellip; %s"
+
+#: includes/admin/tools.php:233 includes/admin/tools.php:276
+#: includes/admin/tools.php:302 includes/admin/tools.php:469
+#: includes/admin/tools.php:514 includes/admin/tools.php:559
+#: includes/admin/tools.php:604 includes/admin/tools.php:666
+#: includes/admin/tools.php:727 includes/admin/tools.php:788
+#: includes/admin/tools.php:950 includes/admin/tools.php:1007
+#: includes/admin/tools.php:1030 includes/admin/tools.php:1085
+#: includes/admin/tools.php:1130 includes/admin/tools.php:1186
+msgid "Complete!"
+msgstr "Kész."
+
+#: includes/admin/tools.php:199 includes/admin/tools.php:250
+#: includes/admin/tools.php:292 includes/admin/tools.php:337
+#: includes/admin/tools.php:454 includes/admin/tools.php:488
+#: includes/admin/tools.php:531 includes/admin/tools.php:576
+#: includes/admin/tools.php:621 includes/admin/tools.php:683
+#: includes/admin/tools.php:744 includes/admin/tools.php:812
+#: includes/admin/tools.php:860 includes/admin/tools.php:966
+#: includes/admin/tools.php:1026 includes/admin/tools.php:1047
+#: includes/admin/tools.php:1101
+msgid "Failed!"
+msgstr "Meghiúsult."
+
+#: includes/admin/tools.php:198
+msgid "Counting the number of replies in each topic&hellip; %s"
+msgstr "Hozzászólások számlálása minden témakörben&hellip; %s"
+
+#: includes/admin/tools.php:178
+msgid "Remap existing users to default forum roles"
+msgstr "Létező felhasználók hozzárendelése az alapértelmezett fórumszabályokhoz"
+
+#: includes/admin/tools.php:177
+msgid "Remove trashed forums from user subscriptions"
+msgstr "helyezett témakörök eltávolítása a felhasználói feliratkozásokból"
+
+#: includes/admin/tools.php:176
+msgid "Remove trashed topics from user subscriptions"
+msgstr "Lomtárba helyezett témakörök eltávolítása a felhasználói feliratkozásokból"
+
+#: includes/admin/tools.php:175
+msgid "Remove trashed topics from user favorites"
+msgstr "Lomtárba helyezett témakörök eltávolítása a felhasználói kedvencekből"
+
+#: includes/admin/tools.php:174
+msgid "Count replies for each user"
+msgstr "Hozzászólások számlálása felhasználónként"
+
+#: includes/admin/tools.php:173
+msgid "Count topics for each user"
+msgstr "Témakörök számlálása felhasználónként"
+
+#: includes/admin/tools.php:172
+msgid "Count spammed & trashed replies in each topic"
+msgstr "Spam és lomtárban levő hozzászólások számlálása minden témakörnél"
+
+#: includes/admin/tools.php:171
+msgid "Count voices in each topic"
+msgstr "Résztvevők számlálása minden témakörnél"
+
+#: includes/admin/tools.php:170
+msgid "Count replies in each topic"
+msgstr "Hozzászólások számlálása minden témakörben"
+
+#: includes/admin/tools.php:169
+msgid "Count replies in each forum"
+msgstr "Hozzászólások számlálása minden fórumban"
+
+#: includes/admin/tools.php:168
+msgid "Count topics in each forum"
+msgstr "Témakörök számlálása minden fórumban"
+
+#: includes/admin/tools.php:167
+msgid "Repair BuddyPress Group Forum relationships"
+msgstr "BuddyPress csoport fórum kapcsolatok helyreállítása"
+
+#: includes/admin/tools.php:165
+msgid "Recalculate the sticky relationship of each topic"
+msgstr "Kiemelt kapcsolat újra számolása minden témánál"
+
+#: includes/admin/tools.php:164
+msgid "Recalculate last activity in each topic and forum"
+msgstr "Utolsó aktivitás újra számolása minden témakörben és fórumban"
+
+#: includes/admin/tools.php:163
+msgid "Recalculate private and hidden forums"
+msgstr "Személyes és rejtett fórumok újra számlálása"
+
+#: includes/admin/tools.php:162
+msgid "Recalculate the parent forum for each post"
+msgstr "Szülőfórum újra számlása minden bejegyzésnél"
+
+#: includes/admin/tools.php:161
+msgid "Recalculate the parent topic for each post"
+msgstr "Szülő témakör újra számlása minden bejegyzésnél"
+
+#: includes/admin/tools.php:61
+msgid "Repair Items"
+msgstr "Elemek helyreállítása"
+
+#: includes/admin/tools.php:46
+msgid "Repair"
+msgstr "Helyreállítás"
+
+#: includes/admin/tools.php:43
+msgid "Relationships to Repair:"
+msgstr "Helyreállítandó kapcsolatok:"
+
+#: includes/admin/tools.php:37
+msgid "Some of these tools create substantial database overhead. Avoid running more than 1 repair job at a time."
+msgstr "Néhány ilyen eszköz az adatbázison dolgozik. Kerüljük egy időben egynél több javítási munka futtatását."
+
+#: includes/admin/tools.php:36
+msgid "bbPress keeps track of relationships between forums, topics, replies, and topic tags, and users. Occasionally these relationships become out of sync, most often after an import or migration. Use the tools below to manually recalculate these relationships."
+msgstr "A bbPress nyomon követi a kapcsolatokat a fórumok, témakörök, hozzászólások, a témakör címkék és a felhasználók között. Néha ezek kiesnek a szinkronból, leggyakrabban importálás vagy migráció után. Használjuk az alábbi eszközöket a kapcsolatok manuális újra számításához."
+
+#: includes/admin/settings.php:1755
+msgid "Possible %1$s conflict: %2$s"
+msgstr "Lehetséges %1$s összeütközés: %2$s"
+
+#: includes/admin/settings.php:1736
+msgid "%s page"
+msgstr "%s oldal"
+
+#: includes/admin/settings.php:1724
+msgid "Topic tag slug"
+msgstr "Témakör címke keresőbarát név"
+
+#: includes/admin/settings.php:1721
+msgid "View base"
+msgstr "Megtekintés alap"
+
+#: includes/admin/settings.php:1718
+msgid "User base"
+msgstr "Felhasználó alap"
+
+#: includes/admin/settings.php:1715
+msgid "Reply slug"
+msgstr "Hozzászólás keresőbarát név"
+
+#: includes/admin/settings.php:1712
+msgid "Topic slug"
+msgstr "Témakör keresőbarát név"
+
+#: includes/admin/settings.php:1709
+msgid "Forum slug"
+msgstr "Fórum keresőbarát név"
+
+#: includes/admin/settings.php:1706
+msgid "Topics base"
+msgstr "Témakörök alap"
+
+#: includes/admin/settings.php:1703
+msgid "Forums base"
+msgstr "Fórumok alap"
+
+#: includes/admin/settings.php:1698
+msgid "Category base"
+msgstr "Kategória alap-előtag"
+
+#: includes/admin/settings.php:1695
+msgid "Tag base"
+msgstr "Címke alap-előtag"
+
+#: includes/admin/settings.php:1692
+msgid "Menus"
+msgstr "Menük"
+
+#: includes/admin/settings.php:1691
+msgid "Attachments"
+msgstr "Mellékletek"
+
+#: includes/admin/settings.php:1689
+msgid "Pages"
+msgstr "Oldalak"
+
+#: includes/admin/settings.php:1688
+#: templates/default/bbpress/loop-forums.php:21
+#: templates/default/bbpress/loop-replies.php:24
+#: templates/default/bbpress/loop-replies.php:66
+#: templates/default/bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr "Bejegyzés"
+
+#: includes/admin/settings.php:1590
+msgid "In the event of a slug collision with WordPress or BuddyPress, a warning will appear next to the problem slug(s)."
+msgstr "A keresőbarát nevek ütközésekor a WordPress-ben vagy a BuddyPress-ben egy figyelmeztető üzenet jelenik meg a problémás név mellett."
+
+#: includes/admin/settings.php:1589
+msgid "\"Single Slugs\" are used as a prefix when viewing an individual forum, topic, reply, user, or view."
+msgstr "Az \"Önálló keresőbarát nevek\" előtagként szolgálnak egy fórum, témakör, hozzászólás vagy nézet megtekintésekor."
+
+#: includes/admin/settings.php:1588
+msgid "\"Archive Slugs\" are used as the \"root\" for your forums and topics. If you combine these values with existing page slugs, bbPress will attempt to output the most correct title and content."
+msgstr "Az \"Archivum keresőbarát nevek\" a fórumok és témakörök \"gyökere\". Ha ezeket kombináljuk a létező oldalak keresőbarát útvonalaival, a bbPress megkísérli összeállítani a legmegfelelőbb címet és tartalmat."
+
+#: includes/admin/settings.php:1587
+msgid "The Slugs section allows you to control the permalink structure for your forums."
+msgstr "A keresőbarát útvonalak szekció lehetővé teszi a közvetlen hivatkozások struktúrájának vezérlését."
+
+#: includes/admin/settings.php:1586
+msgid "Slugs"
+msgstr "Keresőbarát kifejezések"
+
+#: includes/admin/settings.php:1580
+msgid "These are broken up into two separate groups: one for what appears in your theme, another for RSS feeds."
+msgstr "Ezek lehetővé teszik két külön csoport használatát: az egyik a témában, a másik az RSS csatornákban jelenik meg."
+
+#: includes/admin/settings.php:1579
+msgid "This is comparable to the WordPress \"Reading Settings\" page, where you can set the number of posts that should show on blog pages and in feeds."
+msgstr "Ez megfelel a WordPress \"Olvasás beállítások\" oldalának, ahol megjelenítendő bejegyzések és csatornák száma beállítható."
+
+#: includes/admin/settings.php:1578
+msgid "Per Page settings allow you to control the number of topics and replies appear on each page."
+msgstr "Az oldalankénti beállítások lehetővé teszik a megjelenítendő témakörök és hozzászólások számának egy oldalra vonatkozó beállítását."
+
+#: includes/admin/settings.php:1577
+msgid "Per Page"
+msgstr "oldalanként"
+
+#: includes/admin/settings.php:1571
+msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
+msgstr "A képernyő alján lévő <em>Módosítások mentése</em> feliratra kell kattintani az új beállítások érvényesüléséhez."
+
+#: includes/admin/settings.php:1568
+msgid "Auto-embed will embed the media content from a URL directly into the replies. For example: links to Flickr and YouTube."
+msgstr "Az automatikus beágyazás a médiaelemet közvetlenül az hivatkozásból ágyazza be a hozzászólásba. Például ilyen a hivatkozás a Flickr-hez és a YouTube-hoz."
+
+#: includes/admin/settings.php:1567
+msgid "The Fancy Editor brings the luxury of the Visual editor and HTML editor from the traditional WordPress dashboard into your theme."
+msgstr "A fejlett szövegszerkesztő a vizuális és HTML szövegszerkesztő együttes lehetőségét biztosítja."
+
+#: includes/admin/settings.php:1566
+msgid "\"Anonymous Posting\" allows guest users who do not have accounts on your site to both create topics as well as replies."
+msgstr "A \"Vendég bejegyzés beküldése\" lehetővé teszi a nem-regisztrált felhasználók részére témakörök és hozzászólások létrehozását."
+
+#: includes/admin/settings.php:1565
+msgid "Topic-Tags allow users to filter topics between forums. This is enabled by default."
+msgstr "A témakör címkék lehetővé teszik a felhasználók részére a témakörök szűrését a fórumok között. Ez alapértelmezésként engedélyezve van."
+
+#: includes/admin/settings.php:1564
+msgid "Subscriptions allow users to subscribe for notifications to topics that interest them. This is enabled by default."
+msgstr "A Feliratkozások lehetővé teszik, hogy a felhasználó feliratkozzon az érdekes témakörökre. Alapértelmezésben be van kapcsolva."
+
+#: includes/admin/settings.php:1563
+msgid "Favorites are a way for users to save and later return to topics they favor. This is enabled by default."
+msgstr "A Kedvencek lehetővé teszik, hogy a felhasználó elmentse a kedvenc témaköreit és ezekhez később könnyebben visszataláljon. Alapértelmezésben be van kapcsolva."
+
+#: includes/admin/settings.php:1562
+msgid "\"Throttle time\" is the amount of time required between posts from a single author. The higher the throttle time, the longer a user will need to wait between posting to the forum."
+msgstr "A  \"Visszafogási idő\" az az időmennyiség, amelynek el kell telnie egy szerző két bejegyzés beküldése előtt. Magasabb értéknél a felhasználónak többet kell várni addig, ameddig újabb bejegyzést írhat a fórumba."
+
+#: includes/admin/settings.php:1561
+msgid "You can choose to lock a post after a certain number of minutes. \"Locking post editing\" will prevent the author from editing some amount of time after saving a post."
+msgstr "Választható egy bejegyzés zárolása bizonyos percek után. A \"Bejegyzés szerkesztés zárolása\" megakadályozza a szerzőt a bejegyzés mentése után egy adott idő eltelte után a bejegyzés szerkesztésében."
+
+#: includes/admin/settings.php:1558
+msgid "In the Main Settings you have a number of options:"
+msgstr "A fő beállításoknál számos opció érhető el:"
+
+#: includes/admin/settings.php:1557
+msgid "Main Settings"
+msgstr "Fő beállítások"
+
+#: includes/admin/settings.php:1551
+msgid "Please see the additional help tabs for more information on each indiviual section."
+msgstr "Minden szekciónál további információt a kiegészítő súgófüleken találunk."
+
+#: includes/admin/settings.php:1550
+msgid "This screen provides access to all of the Forums settings."
+msgstr "Ez a képernyő hozzáférést nyújt a Fórum összes beállításához."
+
+#: includes/admin/settings.php:1519
+msgid "Stop"
+msgstr "Leállítás"
+
+#: includes/admin/settings.php:1518
+msgid "Start"
+msgstr "Indítás"
+
+#: includes/admin/settings.php:1488
+msgid "Non-bbPress passwords cannot be automatically converted. They will be converted as each user logs in."
+msgstr "A nem-bbPress jelszavakat nem lehet automatikusan konvertálni. Akkor kerül konvertálásra, ha a felhasználó bejelentkezik."
+
+#: includes/admin/settings.php:1487
+msgid "Attempt to import user accounts from previous forums"
+msgstr "Felhasználók importálásának kísérlete korábbi fórumokból"
+
+#: includes/admin/settings.php:1473
+msgid "Use this if an import failed and you want to remove that incomplete data."
+msgstr "Használjuk ezt, ha az importálás meghiúsult és szeretnénk eltávolítani a nem teljesen beolvasott adatokat."
+
+#: includes/admin/settings.php:1472
+msgid "Purge all information from a previously attempted import"
+msgstr "Az előzőleg megkísérelt importálás összes információjának törlése"
+
+#: includes/admin/settings.php:1458
+msgid "You should clean old conversion information before starting over."
+msgstr "Célszerű megtisztogatni a régi konverziós információkat a művelet elindítása előtt."
+
+#: includes/admin/settings.php:1457
+msgid "Start a fresh conversion from the beginning"
+msgstr "Friss konverzió indítása az elejéről"
+
+#: includes/admin/settings.php:1443
+msgid "Keep this high to prevent too-many-connection issues."
+msgstr "Tartsuk magasan a túl sok kapcsolat okozta hibák elkerüléséhez."
+
+#: includes/admin/settings.php:1442
+msgid "second(s) delay between each group of rows"
+msgstr "másodperc késleltetés a sorok csoportjai között"
+
+#: includes/admin/settings.php:1428
+msgid "Keep this low if you experience out-of-memory issues."
+msgstr "Tartsuk alacsonyan, ha memória elfogyási hibák jelentkeznek."
+
+#: includes/admin/settings.php:1427
+msgid "rows to process at a time"
+msgstr "sor kerül egyszerre feldolgozásra"
+
+#: includes/admin/settings.php:1413
+msgid "(If converting from BuddyPress Forums, use \"wp_bb_\" or your custom prefix)"
+msgstr "(BuddyPress fórumból konvertálásnál használjuk a \"wp_bb_\" vagy más, egyedi előtagot)"
+
+#: includes/admin/settings.php:1399
+msgid "Some optional parameters to help tune the conversion process."
+msgstr "Néhány opcionális paraméter a konverziós feldolgozás finomhangolására."
+
+#: includes/admin/settings.php:1386
+msgid "Name of the database with your old forum data"
+msgstr "A régi fórumadatokat tartalmazó adatbázis neve"
+
+#: includes/admin/settings.php:1372
+msgid "Password to access the database"
+msgstr "Az adatbázis eléréséhez szükséges jelszó"
+
+#: includes/admin/settings.php:1358
+msgid "User for your database connection"
+msgstr "Az adatbázis kapcsolathoz tartozó felhasználónév"
+
+#: includes/admin/settings.php:1344
+msgid "Use default 3306 if unsure"
+msgstr "Alapértelmezésként 3306 használata, ha nem biztonságos"
+
+#: includes/admin/settings.php:1330
+msgid "IP or hostname"
+msgstr "IP vagy kiszolgáló"
+
+#: includes/admin/settings.php:1316
+msgid "is the previous forum software"
+msgstr "az előző fórum szoftver"
+
+#: includes/admin/settings.php:1286
+msgid "Information about your previous forums database so that they can be converted. <strong>Backup your database before proceeding.</strong>"
+msgstr "Információ a korábbi fórum-adatbázisról, amely konvertálható. <strong>A művelet előtt biztonsági másolatot kell készíteni az adatbázisról.</strong>"
+
+#: includes/admin/settings.php:1267
+#: templates/default/bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr "Módosítások mentése"
+
+#: includes/admin/settings.php:1258
+msgid "Forums Settings"
+msgstr "Fórumok beállítása"
+
+#: includes/admin/settings.php:1235
+msgid "Allow Akismet to actively prevent forum spam."
+msgstr "Az Akismet engedélyezése a fórumspamok kiküszöbölésére."
+
+#: includes/admin/settings.php:1218
+msgid "Forum settings for Akismet"
+msgstr "Fórum beállítások Akismet-hez"
+
+#: includes/admin/settings.php:1203
+msgid "Using the Forum Root is not recommended. Changing this does not move existing forums."
+msgstr "A fórumgyökér használata nem ajánlott. Ennek megváltoztatása nem helyezi át a létező fórumokat."
+
+#: includes/admin/settings.php:1202
+msgid "is the parent for all group forums"
+msgstr "szülője az összes csoportfórumnak"
+
+#: includes/admin/settings.php:1194
+msgid "&mdash; Forum root &mdash;"
+msgstr "&mdash; Fórum gyökér &mdash;"
+
+#: includes/admin/settings.php:1177
+msgid "Allow BuddyPress Groups to have their own forums"
+msgstr "Lehetővé teszi, hogy a BuddyPress csoportoknak saját fórumok legyen"
+
+#: includes/admin/settings.php:1161
+msgid "Forum settings for BuddyPress"
+msgstr "Fórum beállítások BuddyPress-hez"
+
+#: includes/admin/settings.php:1043
+msgid "Custom slugs for single forums, topics, replies, tags, views, and search."
+msgstr "Egyedi keresőbarát nevek az egyes fórumoknak, hozzászólásoknak, címkéknek és keresésnek."
+
+#: includes/admin/settings.php:943
+msgid "Customize your user profile slugs."
+msgstr "Alakítsuk ki a felhasználói adatlapunk keresőbarát nevét."
+
+#: includes/admin/settings.php:916
+msgid "Topics by Freshness"
+msgstr "Témák időrendben"
+
+#: includes/admin/settings.php:913
+msgid "Forum Index"
+msgstr "Fórum tartalomjegyzék"
+
+#: includes/admin/settings.php:893
+msgid "Prefix all forum content with the Forum Root slug (Recommended)"
+msgstr "Az összes fórum keresőbarát-név (prefix) tartalmazza a Fórum gyökerét (Ajánlott)"
+
+#: includes/admin/settings.php:860
+msgid "Customize your Forums root. Partner with a WordPress Page and use Shortcodes for more flexibility."
+msgstr "Szabjuk testre a fórumok gyökérkönyvtárát, amelyhez a WordPress oldalak és a rövidkódok használata ajánlott a nagyobb rugalmasság érdekében."
+
+#: includes/admin/settings.php:810
+msgid "How many topics and replies to show per RSS page"
+msgstr "RSS oldalanként megjelenő témakörök és hozzászólások száma"
+
+#: includes/admin/settings.php:779 includes/admin/settings.php:795
+#: includes/admin/settings.php:826 includes/admin/settings.php:842
+msgid "per page"
+msgstr "oldalanként"
+
+#: includes/admin/settings.php:763
+msgid "How many topics and replies to show per page"
+msgstr "Oldalanként megjelenő témakörök és hozzászólások száma"
+
+#: includes/admin/settings.php:748
+msgid "Embed media (YouTube, Twitter, Flickr, etc...) directly into topics and replies"
+msgstr "Média (YouTube, Twitter, Flickr, etc...) közvetlen beágyazása témakörökbe és hozzászólásokba."
+
+#: includes/admin/settings.php:732
+msgid "No template packages available."
+msgstr "Nincsenek elérhető sablonok"
+
+#: includes/admin/settings.php:728
+msgid "will serve all bbPress templates"
+msgstr "alkalmazza az összes bbPress sablont"
+
+#: includes/admin/settings.php:722
+msgid "%1$s - %2$s"
+msgstr "%1$s-%2$s"
+
+#: includes/admin/settings.php:698
+msgid "How your forum content is displayed within your existing theme."
+msgstr "A témakör tartalom megjelenítése létező sablonon belül."
+
+#: includes/admin/settings.php:685
+msgid "Add toolbar & buttons to textareas to help with HTML formatting"
+msgstr "Eszköztár & gombok hozzáadása a szövegmezőhöz a HTML formázás segítéséhez"
+
+#: includes/admin/settings.php:669
+msgid "Allow topic and reply revision logging"
+msgstr "Témakör és hozzászólás állapotok naplózásának engedélyezése"
+
+#: includes/admin/settings.php:652
+msgid "Enable threaded (nested) replies %s levels deep"
+msgstr "%s színt mélységben bekapcsoljuk a beszélgetés fonalát (beágyazzuk)"
+
+#: includes/admin/settings.php:613
+msgid "Allow forum wide search"
+msgstr "Teljes fórumban történő keresés engedélyezés"
+
+#: includes/admin/settings.php:597
+msgid "Allow topics to have tags"
+msgstr "Témakörcímkék engedélyezése"
+
+#: includes/admin/settings.php:581
+msgid "Allow users to subscribe to forums and topics"
+msgstr "Engedélyezzük a felhasználóknak a fórumokra és a témákra történő feliratkozást."
+
+#: includes/admin/settings.php:565
+msgid "Allow users to mark topics as favorites"
+msgstr "A felhasználók kedvencnek minősíthetik a témaköröket"
+
+#: includes/admin/settings.php:549
+msgid "Forum features that can be toggled on and off"
+msgstr "Fórum szolgáltatások, amelyeket össze lehet zárni és kinyitni"
+
+#: includes/admin/settings.php:533
+msgid "Automatically give registered visitors the %s forum role"
+msgstr "Automatikusan megkapja a regisztrált látogató a %s fórum szerepkört"
+
+#: includes/admin/settings.php:499
+msgid "Allow guest users without accounts to create topics and replies"
+msgstr "A vendég felhasználók létrehozhatnak témaköröket és hozzászólásokat"
+
+#: includes/admin/settings.php:483 includes/common/functions.php:124
+msgid "seconds"
+msgstr "másodperc"
+
+#: includes/admin/settings.php:467 includes/common/functions.php:123
+msgid "minutes"
+msgstr "perc"
+
+#: includes/admin/settings.php:450
+msgid "Setting time limits and other user posting capabilities"
+msgstr "Időkorlát és egyéb felhasználói bejegyzés lehetőségeinek beállítása"
+
+#: includes/admin/settings.php:412
+msgid "Use Akismet"
+msgstr "Akismet használata"
+
+#: includes/admin/settings.php:399
+msgid "Group Forums Parent"
+msgstr "Csoportfórumok szülő"
+
+#: includes/admin/settings.php:391
+msgid "Enable Group Forums"
+msgstr "Csoportfórumok engedélyezése"
+
+#: includes/admin/settings.php:378
+msgid "Topic Subscriptions"
+msgstr "Feliratkozás egy témára"
+
+#: includes/admin/settings.php:370 includes/extend/buddypress/loader.php:285
+msgid "Favorite Topics"
+msgstr "Kedvenc témák"
+
+#: includes/admin/settings.php:362 includes/extend/buddypress/loader.php:207
+#: includes/extend/buddypress/loader.php:277
+#: templates/default/bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr "Hozzászólások"
+
+#: includes/admin/settings.php:354 includes/extend/buddypress/loader.php:196
+#: includes/extend/buddypress/loader.php:269
+#: templates/default/bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr "Indított témakörök"
+
+#: includes/admin/settings.php:346
+msgid "User Base"
+msgstr "Felhasználók"
+
+#: includes/admin/settings.php:317
+msgid "Topic View"
+msgstr "Téma mutatása"
+
+#: includes/admin/settings.php:280
+msgid "Forum root should show"
+msgstr "Fórum gyökerében jelenjen meg"
+
+#: includes/admin/settings.php:272
+msgid "Forum Prefix"
+msgstr "Főrum előtag"
+
+#: includes/admin/settings.php:264
+msgid "Forum Root"
+msgstr "Fórum gyökér"
+
+#: includes/admin/settings.php:209
+msgid "Current Package"
+msgstr "Aktuális csomag"
+
+#: includes/admin/settings.php:190
+msgid "Reply Threading"
+msgstr "Hozzászólás a beszélgetéshez"
+
+#: includes/admin/settings.php:182
+msgid "Auto-embed links"
+msgstr "Automatikus beágyazás hivatkozások"
+
+#: includes/admin/settings.php:174
+msgid "Post Formatting"
+msgstr "Bejegyzés formázása"
+
+#: includes/admin/settings.php:166 includes/admin/settings.php:333
+#: includes/common/template.php:2330 includes/search/template.php:225
+#: templates/default/bbpress/form-search.php:17
+msgid "Search"
+msgstr "Keresés"
+
+#: includes/admin/settings.php:158
+msgid "Topic tags"
+msgstr "Téma címkék"
+
+#: includes/admin/settings.php:150 includes/extend/buddypress/loader.php:230
+#: templates/default/bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr "Feliratkozások"
+
+#: includes/admin/settings.php:142 includes/extend/buddypress/loader.php:218
+#: templates/default/bbpress/user-details.php:48
+msgid "Favorites"
+msgstr "Kedvencek"
+
+#: includes/admin/settings.php:134 includes/admin/settings.php:1690
+msgid "Revisions"
+msgstr "Változatok"
+
+#: includes/admin/settings.php:115
+msgid "Auto role"
+msgstr "Autómatikus szabály"
+
+#: includes/admin/settings.php:107
+msgid "Anonymous posting"
+msgstr "Vendég-bejegyzés engedélyezése"
+
+#: includes/admin/settings.php:99
+msgid "Throttle posting every"
+msgstr "Bejegyzésküldési idő"
+
+#: includes/admin/settings.php:91
+msgid "Disallow editing after"
+msgstr "Utólagos szerkesztés tiltása"
+
+#: includes/admin/settings.php:69
+msgid "Akismet Integration"
+msgstr "Akismet egyesítés"
+
+#: includes/admin/settings.php:64
+msgid "BuddyPress Integration"
+msgstr "BuddyPress egyesítés"
+
+#: includes/admin/settings.php:59
+msgid "Forum User Slugs"
+msgstr "Fórum felhasználó keresőbarát név"
+
+#: includes/admin/settings.php:54
+msgid "Single Forum Slugs"
+msgstr "Egy fórum keresőbarát név"
+
+#: includes/admin/settings.php:49
+msgid "Forum Root Slug"
+msgstr "Fórum gyökér keresőbarát név"
+
+#: includes/admin/settings.php:44
+msgid "Topics and Replies Per RSS Page"
+msgstr "Témák és hozzászólások RSS oldalanként"
+
+#: includes/admin/settings.php:39
+msgid "Topics and Replies Per Page"
+msgstr "Témák és hozzászólások oldalanként"
+
+#: includes/admin/settings.php:34
+msgid "Forum Theme Packages"
+msgstr "Forum sabloncsomag"
+
+#: includes/admin/settings.php:29
+msgid "Forum Features"
+msgstr "Fórum szolgáltatások"
+
+#: includes/admin/settings.php:24
+msgid "Forum User Settings"
+msgstr "Fórum felhasználói beállítások"
+
+#: includes/admin/replies.php:883
+msgid "Reply draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "A piszkozat hozzászólás frissítésre került. <a target=\"_blank\" href=\"%s\">Témakör előnézet</a>"
+
+#: includes/admin/replies.php:876
+msgid "Reply scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview topic</a>"
+msgstr "Időzített hozzászólás: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Témakör előnézet</a>"
+
+#: includes/admin/replies.php:873
+msgid "Reply submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "A hozzászólás beküldésre került. <a target=\"_blank\" href=\"%s\">Témakör előnézet</a>"
+
+#: includes/admin/replies.php:870
+msgid "Reply saved."
+msgstr "A hozzászólás mentésre került."
+
+#: includes/admin/replies.php:867
+msgid "Reply created. <a href=\"%s\">View topic</a>"
+msgstr "A hozzászólás létrehozásra került. <a href=\"%s\">Témakör megtekintése</a>"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/replies.php:863
+msgid "Reply restored to revision from %s"
+msgstr "A hozzászólás visszaállításra került ebből a változatból: %s"
+
+#: includes/admin/replies.php:858
+msgid "Reply updated."
+msgstr "A hozzászólás frissítésre került."
+
+#: includes/admin/replies.php:849
+msgid "Reply updated. <a href=\"%s\">View topic</a>"
+msgstr "A hozzászólás frissítésre került. <a href=\"%s\">Témakör megtekintése</a>"
+
+#: includes/admin/replies.php:789 includes/admin/topics.php:859
+msgid "In all forums"
+msgstr "Összes fórumban"
+
+#: includes/admin/replies.php:779 includes/admin/topics.php:849
+msgid "Empty Spam"
+msgstr "Spam-tároló ürítése"
+
+#: includes/admin/replies.php:753 includes/admin/topics.php:823
+msgid "Delete Permanently"
+msgstr "Végleges törlés"
+
+#: includes/admin/replies.php:753 includes/admin/topics.php:823
+#: includes/replies/template.php:2053 includes/topics/template.php:2634
+msgid "Delete this item permanently"
+msgstr "Ezen tétel végleges törlése"
+
+#: includes/admin/replies.php:749 includes/admin/topics.php:819
+#: includes/replies/template.php:2034 includes/topics/template.php:2615
+msgid "Trash"
+msgstr "Lomtár"
+
+#: includes/admin/replies.php:749 includes/admin/topics.php:819
+#: includes/replies/template.php:2049 includes/topics/template.php:2630
+msgid "Move this item to the Trash"
+msgstr "Ezen tétel lomtárba helyezése"
+
+#: includes/admin/replies.php:747 includes/admin/topics.php:817
+#: includes/replies/template.php:2035 includes/topics/template.php:2616
+msgid "Restore"
+msgstr "Helyreállítás"
+
+#: includes/admin/replies.php:747 includes/admin/topics.php:817
+#: includes/replies/template.php:2047 includes/topics/template.php:2628
+msgid "Restore this item from the Trash"
+msgstr "Ezen tétel helyreállítása a lomtárból"
+
+#: includes/admin/replies.php:738 includes/admin/topics.php:809
+#: includes/replies/template.php:2105 includes/topics/template.php:2872
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/admin/replies.php:738
+msgid "Mark this reply as spam"
+msgstr "Hozzászólás megjelölése spamként"
+
+#: includes/admin/replies.php:736 includes/admin/topics.php:807
+msgid "Not spam"
+msgstr "Nem spam"
+
+#: includes/admin/replies.php:736
+msgid "Mark the reply as not spam"
+msgstr "Hozzászólás megjelölése nem-spamként"
+
+#: includes/admin/replies.php:725 includes/admin/topics.php:776
+msgid "View"
+msgstr "Megtekintés"
+
+#: includes/admin/replies.php:725 includes/admin/topics.php:776
+msgid "View &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; megtekintése"
+
+#: includes/admin/replies.php:657
+msgid "(Mismatch)"
+msgstr "(Nem egyező)"
+
+#: includes/admin/replies.php:651 includes/admin/replies.php:666
+#: includes/admin/topics.php:687
+msgid "No Forum"
+msgstr "Nincs fórum."
+
+#: includes/admin/replies.php:625 includes/admin/replies.php:633
+msgid "No Topic"
+msgstr "Nincs témakör."
+
+#: includes/admin/replies.php:572 includes/admin/topics.php:636
+#: templates/default/bbpress/loop-replies.php:18
+#: templates/default/bbpress/loop-replies.php:60
+#: templates/default/bbpress/loop-search.php:18
+#: templates/default/bbpress/loop-search.php:40
+msgid "Author"
+msgstr "Szerző"
+
+#: includes/admin/replies.php:569
+msgid "Title"
+msgstr "Cím"
+
+#: includes/admin/replies.php:536
+msgid "Reply \"%1$s\" successfully unmarked as spam."
+msgstr "\"%1$s\" hozzászólás sikeresen nem-spamnak lett minősítve."
+
+#: includes/admin/replies.php:536
+msgid "There was a problem unmarking the reply \"%1$s\" as spam."
+msgstr "\"%1$s\" hozzászólás spam minősítésének eltávolítása közben hiba történt."
+
+#: includes/admin/replies.php:532
+msgid "Reply \"%1$s\" successfully marked as spam."
+msgstr "\"%1$s\" spamként megjelölése sikeres volt."
+
+#: includes/admin/replies.php:532
+msgid "There was a problem marking the reply \"%1$s\" as spam."
+msgstr "\"%1$s\" hozzászólás spamként megjelölésénél probléma merült fel."
+
+#: includes/admin/replies.php:464 includes/admin/topics.php:488
+msgid "You do not have the permission to do that!"
+msgstr "Nincs jogosultság a művelethez."
+
+#: includes/admin/replies.php:461
+msgid "The reply was not found!"
+msgstr "A hozzászólás nem található."
+
+#: includes/admin/replies.php:347 includes/admin/topics.php:363
+#: templates/default/bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr "Szerző információ"
+
+#: includes/admin/replies.php:223
+msgid "<strong>Reply To</strong> determines the threading of the reply."
+msgstr "<strong>Hozzászólás</strong> meghatározza a beszélgetések vonulatát (kapcsolódását, a beszéd fonalát)."
+
+#: includes/admin/replies.php:222
+msgid "<strong>Topic</strong> determines the parent topic that the reply belongs to."
+msgstr "A <strong>Témakör</strong> megadja a hozzászólás szülőtémakörét."
+
+#: includes/admin/replies.php:221
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the reply belongs to. Select the forum, or leave the default (Use Forum of Topic) to post the reply in forum of the topic."
+msgstr "A <strong>Fórum</strong> legördülő meghatározza a hozzászólás szülőfórumát. Válasszunk egy fórumot vagy hagyjuk alapértelmezettként (témakör fórum használata) a témakör fórumába beküldéshez."
+
+#: includes/admin/replies.php:219
+msgid "Select the attributes that your reply should have:"
+msgstr "Válasszuk ki a hozzászólásra alkalmazandó attribútumokat:"
+
+#: includes/admin/replies.php:217 includes/admin/replies.php:255
+msgid "Reply Attributes"
+msgstr "Hozzászólás attribútumok"
+
+#: includes/admin/replies.php:212
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your reply without inserting it. This is usually useful only if your theme makes use of the featured image as a reply thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Kiemelt kép</strong> - Lehetővé teszi egy kép társítását a hozzászóláshoz beszúrás nélkül. Ez általában akkor hasznos, ha a téma hozzászólás bélyegképként használja a kiemelt képet a címlapon, egyedi fejlécben, stb."
+
+#: includes/admin/replies.php:209
+msgid "<strong>Publish</strong> - You can set the terms of publishing your reply in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a reply or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a reply to be published in the future or backdate a reply."
+msgstr "<strong>Publikálás</strong> - Beállíthatók a hozzászólás publikálásának feltételei a Publikálási dobozban. Az Állapot, Láthatóság és Publikálás (közvetlen) lehetőségekhez kattintsunk a Szerkesztés hivatkozáson a további opciók eléréséhez. A Láthatóság beállításokat tartalmaz a hozzászólások jelszóvédelméhez vagy azok blog oldal tetején való rögzítéséhez meghatározatlan időre (kiemelt). A Publikálás (közvetlen) lehetővé teszi a megjelenés időzítését (mettől meddig látható)."
+
+#: includes/admin/replies.php:206
+msgid "<strong>Reply Editor</strong> - Enter the text for your reply. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your reply text. You can insert media files by clicking the icons above the reply editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular reply editor."
+msgstr "<strong>Hozzászólás szerkesztő</strong> - Adjuk meg a hozzászóláshoz tartozó szöveget. A szerkesztésnek két módja van: Vizuális és HTML. A kettő közül a megfelelő fülre kattintással lehet választani. A Vizuális mód a fejlett szövegszerkesztőt jeleníti meg. Az eszköztár jobb szélső ikonjával egy második eszköztársor jelenítő meg. A HTML módban tiszta HTML kódokat lehet bevinni a hozzászólás szövegbe. Médiafájlokat a hozzászólás szerkesztő feletti ikonokkal. A Teljes kényernyő ikonnal egy nagy méretű szerkesztőfelület jelenik meg Vizuális módban (felső sor jobbról a második ikon) vagy a Teljes képernyő gomb HTML módban (a sor jobb szélén). A gombokat itt a felső terület fölé helyezve lehet megjeleníteni. A Teljes képernyős szerkesztő módból kilépve a hagyományos hozzászólás szerkesztőbe lépünk vissza."
+
+#: includes/admin/replies.php:205
+msgid "<strong>Title</strong> - Enter a title for your reply. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Cím</strong> - Meg kell adni a címet a hozzászóláshoz. A cím megadása után lentebb egy szerkeszthető közvetlen hivatkozás jelenik meg."
+
+#: includes/admin/replies.php:203
+msgid "Title and Reply Editor"
+msgstr "Cím és hozzászólás szerkesztő"
+
+#: includes/admin/replies.php:193
+msgid "The title field and the big reply editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "A cím mező és a nagy szerkesztő hely fix helyen van, de az összes egyéb doboz áthelyezhető vonszolással, becsukható vagy kinyitható a doboz melletti címsávra kattintva. A Képernyő opciók fül segítségével lehet megjeleníteni a további dobozokat (kivonat, visszakövetés küldése, egyedi mezők, beszélgetés, keresőbarát név, szerző) vagy választani lehet az egy- vagy kétoszlopos elrendezés közül az adott képernyőre vonatkoztatva."
+
+#: includes/admin/replies.php:172
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected replies at once. To remove a reply from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Kötegelt szerkesztésnél a metaadatok egyszerre változtathatók meg (kategóriák, szerző, stb.) a kiválasztott hozzászólásoknál. A csoportosításból egy hozzászólás eltávolítható a név melletti x jelre kattintással a Kötegelt szerkesztés területen."
+
+#: includes/admin/replies.php:171
+msgid "You can also edit or move multiple replies to the trash at once. Select the replies you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Egyszerre több hozzászólás szerkeszthető vagy helyezhető lomtárba. Válasszuk ki a művelethez a hozzászólásokat a jelölő dobozok segítségével, majd válasszuk ki a végrehajtandó műveletet a Kötegelt műveletek menüből és kattintsunk az Alkalmazás gombra."
+
+#: includes/admin/replies.php:162
+msgid "<strong>Preview</strong> will show you what your draft reply will look like if you publish it. View will take you to your live site to view the reply. Which link is available depends on your reply&#8217;s status."
+msgstr "Az <strong>Előnézet</strong> megjeleníti a hozzászólás publikálás utáni előnézetét. Az előnézet az élő webhelyen jeleníti meg a hozzászólást. Az elérhető hivatkozások a hozzászólás állapotától függően változhatnak."
+
+#: includes/admin/replies.php:161
+msgid "<strong>Spam</strong> removes your reply from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "A <strong>Spam</strong> eltávolítja a hozzászólást a listából és a spamsorba helyezi át. Innen véglegesen törölhető."
+
+#: includes/admin/replies.php:160
+msgid "<strong>Trash</strong> removes your reply from this list and places it in the trash, from which you can permanently delete it."
+msgstr "A <strong>Lomtár</strong> eltávolítja a hozzászólást a listából és a lomtárba helyezi. Innen törölhető véglegesen."
+
+#: includes/admin/replies.php:158
+msgid "<strong>Edit</strong> takes you to the editing screen for that reply. You can also reach that screen by clicking on the reply title."
+msgstr "A <strong>Szerkesztés</strong> a hozzászólás szerkesztőképernyőjéhez vezet. Ugyanez érhető el a hozzászólás címére kattintva."
+
+#: includes/admin/replies.php:156
+msgid "Hovering over a row in the replies list will display action links that allow you to manage your reply. You can perform the following actions:"
+msgstr "A hozzászólás-listában az egeret egy sor fölé helyezve megjelennek azok a műveleti hivatkozások, amelyekkel a hozzászólás kezelhető. A következő műveleteket lehet végrehajtani:"
+
+#: includes/admin/replies.php:147
+msgid "You can refine the list to show only replies in a specific category or from a specific month by using the dropdown menus above the replies list. Click the Filter button after making your selection. You also can refine the list by clicking on the reply author, category or tag in the replies list."
+msgstr "A lista finomítható úgy egy legördülő lista segítségével, hogy csak egy adott kategória vagy egy adott hónap hozzászólásai jelenjenek meg. Kattintsunk a Szűrő gombon a kiválasztás után. A lista finomítható a hozzászólás szerzőjére, a kategóriára vagy a címkére kattintva."
+
+#: includes/admin/replies.php:146
+msgid "You can view replies in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr "A hozzászólások megtekinthetők egy egyszerű címlistában vagy kivonattal együtt. Válasszuk ki a nézetet a lista jobb felső részén levő ikonokkal."
+
+#: includes/admin/replies.php:145
+msgid "You can filter the list of replies by reply status using the text links in the upper left to show All, Published, Draft, or Trashed replies. The default view is to show all replies."
+msgstr "A hozzászólások listája szűrhető a hozzászólás állapota alapján a bal felső sarokban levő szöveges hivatkozások segítségével (Összes, Közzétéve, Lomtárban levő hozzászólások). Alapértelmezésként az összes hozzászólás megjelenik."
+
+#: includes/admin/replies.php:144
+msgid "You can hide/display columns based on your needs and decide how many replies to list per screen using the Screen Options tab."
+msgstr "A Képernyő opciók fül segítségével igény szerint elrejthetők megjeleníthetők az oszlopok és megadható a képernyőnként megjelenítendő hozzászólások száma."
+
+#: includes/admin/replies.php:134
+msgid "This screen provides access to all of your replies. You can customize the display of this screen to suit your workflow."
+msgstr "Ez a képernyő hozzáférést biztosít az összes hozzászóláshoz. A képernyő megjelenése testre szabható a munkafolyamatnak megfelelően."
+
+#: includes/admin/metaboxes.php:525
+msgid "IP Address"
+msgstr "IP cím"
+
+#: includes/admin/metaboxes.php:524
+msgid "IP:"
+msgstr "IP:"
+
+#: includes/admin/metaboxes.php:517
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/metaboxes.php:516
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/admin/metaboxes.php:509
+#: templates/default/bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr "Honlap"
+
+#: includes/admin/metaboxes.php:508
+#: templates/default/bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr "Webhely:"
+
+#: includes/admin/metaboxes.php:503
+#: templates/default/bbpress/form-user-edit.php:103
+#: templates/default/bbpress/form-user-register.php:28
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/metaboxes.php:502
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/admin/metaboxes.php:497
+#: templates/default/bbpress/form-user-edit.php:14
+#: templates/default/bbpress/form-user-edit.php:19
+msgid "Name"
+msgstr "Név"
+
+#: includes/admin/metaboxes.php:496
+#: templates/default/bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr "Név:"
+
+#: includes/admin/metaboxes.php:464
+msgid "Reply To"
+msgstr "Hozzászólás"
+
+#: includes/admin/metaboxes.php:463
+msgid "Reply To:"
+msgstr "Hozzászólás:"
+
+#: includes/admin/metaboxes.php:457 includes/replies/template.php:61
+msgid "Topic:"
+msgstr "Témakör:"
+
+#: includes/admin/metaboxes.php:379 includes/admin/metaboxes.php:433
+#: includes/extend/buddypress/groups.php:1042 includes/topics/template.php:61
+#: templates/default/bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr "Fórum:"
+
+#: includes/admin/metaboxes.php:368
+msgid "Select whether to open or close the topic."
+msgstr "Válaszd ki, hogy megnyisd vagy bezárd a témát."
+
+#: includes/admin/metaboxes.php:356
+msgid "Topic Type"
+msgstr "Témakör típus"
+
+#: includes/admin/metaboxes.php:322
+msgid "Forum Order"
+msgstr "Fórumrendezés"
+
+#: includes/admin/metaboxes.php:321
+msgid "Order:"
+msgstr "Sorrend:"
+
+#: includes/admin/metaboxes.php:314 includes/admin/metaboxes.php:394
+#: includes/admin/metaboxes.php:448
+msgid "&mdash; No parent &mdash;"
+msgstr "&mdash; Nincs szülő &mdash;"
+
+#: includes/admin/metaboxes.php:300
+msgid "Forum Parent"
+msgstr "Szülőfórum"
+
+#: includes/admin/metaboxes.php:299
+msgid "Parent:"
+msgstr "Szülő:"
+
+#: includes/admin/metaboxes.php:285 includes/admin/metaboxes.php:286
+#: templates/default/bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr "Nyilvánosság:"
+
+#: includes/admin/metaboxes.php:273 includes/admin/metaboxes.php:274
+#: includes/admin/metaboxes.php:367
+#: templates/default/bbpress/form-forum.php:100
+msgid "Status:"
+msgstr "Állapot:"
+
+#: includes/admin/metaboxes.php:261 includes/admin/metaboxes.php:262
+#: includes/admin/metaboxes.php:355
+msgid "Type:"
+msgstr "Típus:"
+
+#: includes/admin/metaboxes.php:222
+msgid "You are using <span class=\"b\">bbPress %s</span>."
+msgstr "Jelenleg a <span class=\"b\">bbPress %s</span> verziója van használatban."
+
+#: includes/admin/metaboxes.php:198
+msgid "Empty Topic Tag"
+msgid_plural "Empty Topic Tags"
+msgstr[0] "üres témakör címke"
+msgstr[1] "üres témakör címke"
+
+#: includes/admin/metaboxes.php:176
+msgid "Hidden Reply"
+msgid_plural "Hidden Replies"
+msgstr[0] "Rejtett hozzászólás"
+msgstr[1] "Rejtett hozzászólás"
+
+#: includes/admin/metaboxes.php:154
+msgid "Hidden Topic"
+msgid_plural "Hidden Topics"
+msgstr[0] "rejtett témakör"
+msgstr[1] "rejtett témakör"
+
+#: includes/admin/metaboxes.php:135
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "felhasználó"
+msgstr[1] "felhasználó"
+
+#: includes/admin/metaboxes.php:127
+msgid "Users &amp; Moderation"
+msgstr "Felhasználók &amp; Moderáció"
+
+#: includes/admin/metaboxes.php:103 includes/admin/settings.php:309
+#: includes/topics/template.php:3367
+msgid "Topic Tag"
+msgid_plural "Topic Tags"
+msgstr[0] "Témakör címke"
+msgstr[1] "Témakör címkék"
+
+#: includes/admin/metaboxes.php:84 includes/admin/settings.php:325
+#: includes/replies/template.php:49 includes/replies/template.php:1621
+#: includes/topics/template.php:2921
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Hozzászólás"
+msgstr[1] "Hozzászólások"
+
+#: includes/admin/metaboxes.php:67 includes/admin/metaboxes.php:458
+#: includes/admin/replies.php:571 includes/admin/settings.php:301
+#: includes/topics/template.php:49
+#: templates/default/bbpress/content-single-topic-lead.php:22
+#: templates/default/bbpress/content-single-topic-lead.php:94
+#: templates/default/bbpress/loop-topics.php:19
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Témakör"
+msgstr[1] "Témakörök"
+
+#: includes/admin/metaboxes.php:42
+msgid "Discussion"
+msgstr "Interakció"
+
+#: includes/admin/forums.php:563
+msgid "Forum draft updated. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+msgstr "A fórum vázlat frissítésre került. <a target=\"_blank\" href=\"%s\">Fórum előnézet</a>"
+
+#. translators: Publish box date format, see http://php.net/date
+#: includes/admin/forums.php:558 includes/admin/replies.php:878
+#: includes/admin/topics.php:948
+msgid "M j, Y @ G:i"
+msgstr "Y. F j.  l -  H:i"
+
+#: includes/admin/forums.php:556
+msgid "Forum scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview forum</a>"
+msgstr "A fórum időzítése: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Fórum előnézet</a>"
+
+#: includes/admin/forums.php:553
+msgid "Forum submitted. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+msgstr "A fórum beküldésre került. <a target=\"_blank\" href=\"%s\">Fórum előnézet</a>"
+
+#: includes/admin/forums.php:550
+msgid "Forum saved."
+msgstr "A fórum mentésre került."
+
+#: includes/admin/forums.php:547
+msgid "Forum created. <a href=\"%s\">View forum</a>"
+msgstr "A fórum létrejött. <a href=\"%s\">Fórum megtekintése</a>"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/forums.php:543
+msgid "Forum restored to revision from %s"
+msgstr "Fórum visszaállítása %s időpontú állapotból"
+
+#: includes/admin/forums.php:538
+msgid "Forum updated."
+msgstr "A fórum törlésre került."
+
+#: includes/admin/forums.php:535 includes/admin/replies.php:855
+#: includes/admin/topics.php:925
+msgid "Custom field deleted."
+msgstr "Egyedi mező törölve."
+
+#: includes/admin/forums.php:532 includes/admin/replies.php:852
+#: includes/admin/topics.php:922
+msgid "Custom field updated."
+msgstr "Egyedi mező frissítve."
+
+#: includes/admin/forums.php:529
+msgid "Forum updated. <a href=\"%s\">View forum</a>"
+msgstr "A fórum frissítésre került. <a href=\"%s\">Fórum megtekintése</a>"
+
+#: includes/admin/forums.php:463 includes/forums/template.php:601
+msgid "No Topics"
+msgstr "Nincs témakör"
+
+#: includes/admin/forums.php:414 includes/admin/topics.php:638
+#: templates/default/bbpress/loop-forums.php:22
+#: templates/default/bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr "Frissesség"
+
+#: includes/admin/forums.php:413 includes/admin/replies.php:573
+#: includes/admin/topics.php:637
+msgid "Created"
+msgstr "Dátum"
+
+#: includes/admin/forums.php:412
+#: templates/default/bbpress/content-single-topic-lead.php:18
+#: templates/default/bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "Indította"
+
+#: includes/admin/forums.php:411 includes/admin/settings.php:230
+#: includes/admin/settings.php:251 includes/admin/topics.php:634
+#: includes/core/theme-compat.php:646
+#: includes/extend/buddypress/activity.php:356
+#: includes/forums/template.php:2665 includes/replies/template.php:47
+#: includes/replies/template.php:48
+#: templates/default/bbpress/content-statistics.php:32
+#: templates/default/bbpress/loop-forums.php:21
+#: templates/default/bbpress/loop-replies.php:32
+#: templates/default/bbpress/loop-replies.php:70
+#: templates/default/bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr "Hozzászólás"
+
+#: includes/admin/forums.php:410 includes/admin/settings.php:222
+#: includes/admin/settings.php:243 includes/admin/topics.php:632
+#: includes/extend/buddypress/activity.php:355
+#: includes/forums/template.php:2601 includes/topics/template.php:47
+#: includes/topics/template.php:48
+#: templates/default/bbpress/content-statistics.php:27
+#: templates/default/bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr "Témakör"
+
+#: includes/admin/forums.php:409 includes/admin/metaboxes.php:50
+#: includes/admin/metaboxes.php:380 includes/admin/metaboxes.php:434
+#: includes/admin/replies.php:570 includes/admin/settings.php:293
+#: includes/admin/topics.php:633 includes/extend/buddypress/groups.php:52
+#: includes/extend/buddypress/groups.php:53 includes/forums/template.php:49
+#: templates/default/bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr "Fórum"
+
+#: includes/admin/forums.php:217 includes/admin/replies.php:229
+#: includes/admin/topics.php:229
+msgid "Publish Box"
+msgstr "Közzétételi doboz"
+
+#: includes/admin/forums.php:211
+msgid "<strong>Order</strong> allows you to order your forums numerically."
+msgstr "A <strong>Rendezés</strong> lehetővé teszi a fórumok numerikus rendezését."
+
+#: includes/admin/forums.php:210
+msgid "<strong>Parent</strong> dropdown determines the parent forum. Select the forum or category from the dropdown, or leave the default (No Parent) to create the forum at the root of your forums."
+msgstr "A <strong>Szülő</strong> legördülő a szülőfórumot határozza meg. Válasszunk fórumot vagy kategóriát a legördülő listából vagy hagyjuk alapértelmezetten (Nincs szülő) gyökérszintű fórum létrehozásához."
+
+#: includes/admin/forums.php:209
+msgid "<strong>Visibility</strong> lets you pick the scope of each forum and what users are allowed to access it."
+msgstr "A <strong>Láthatóság</strong> lehetővé teszi a fórumok hatókörét és a felhasználók hozzáférhetőségének beállítását a témakörökhöz."
+
+#: includes/admin/forums.php:208
+msgid "<strong>Status</strong> allows you to close a forum to new topics and forums."
+msgstr "Az <strong>Állapot</strong> lehetővé teszi a fórum lezárását új témakörök és fórumok létrehozása elől."
+
+#: includes/admin/forums.php:207
+msgid "<strong>Type</strong> indicates if the forum is a category or forum. Categories generally contain other forums."
+msgstr "A <strong>Típus</strong> azt jelzi, hogy a fórum kategória vagy fórum. A kategóriák más fórumokat tartalmaznak általában."
+
+#: includes/admin/forums.php:205
+msgid "Select the attributes that your forum should have:"
+msgstr "Válasszuk ki a fórum tulajdonságait:"
+
+#: includes/admin/forums.php:203 includes/admin/forums.php:243
+msgid "Forum Attributes"
+msgstr "Fórum tulajdonságok"
+
+#: includes/admin/forums.php:198
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your forum without inserting it. This is usually useful only if your theme makes use of the featured image as a forum thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Kiemelt kép</strong> - Ez lehetővé teszi egy kép társítását a fórumhoz anélkül, hogy az beszúrásra kerüljön. Ez akkor lehet hasznos, ha a téma képes a kiemelt kép használatára fórum bélyegképként a címlapon és az egyedi fejlécben, stb."
+
+#: includes/admin/forums.php:195
+msgid "<strong>Publish</strong> - You can set the terms of publishing your forum in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a forum or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a forum to be published in the future or backdate a forum."
+msgstr "<strong>Publikálás</strong> - Beállíthatók a fórum publikálásának feltételei a Publikálási dobozban. Az Állapot, Láthatóság és Publikálás (közvetlen) lehetőségekhez kattintsunk a Szerkesztés hivatkozáson további opciók eléréséhez.  A Láthatóság beállításokat tartalmaz a hozzászólások jelszóvédelméhez vagy azok blog oldal tetején való rögzítéséhez meghatározatlan időre (kiemelt). A Publikálás (közvetlen) lehetővé teszi a megjelenés időzítését (mettől meddig látható)."
+
+#: includes/admin/forums.php:192
+msgid "<strong>Forum Editor</strong> - Enter the text for your forum. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your forum text. You can insert media files by clicking the icons above the forum editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular forum editor."
+msgstr "<strong>Fórum szerkesztő</strong> - Adjuk meg a fórumhoz tartozó szöveget. A szerkesztésnek két módja van: Vizuális és HTML. A kettő közül a megfelelő fülre kattintással lehet választani. A Vizuális mód a fejlett szövegszerkesztőt jeleníti meg. Az eszköztár jobb szélső ikonjával egy második eszköztársor jelenítő meg. A HTML módban tiszta HTML kódokat lehet bevinni a fórumszövegbe. Médiafájlokat a fórumszerkesztő feletti ikonokkal. A Teljes kényernyő ikonnal egy nagy méretű szerkesztőfelület jelenik meg Vizuális módban (felső sor jobbról a második ikon) vagy a Teljes képernyő gomb HTML módban (a sor jobb szélén). A gombokat itt a felső terület fölé helyezve lehet megjeleníteni. A Teljes képernyős szerkesztő módból kilépve a hagyományos fórumszerkesztőbe lépünk vissza."
+
+#: includes/admin/forums.php:191
+msgid "<strong>Title</strong> - Enter a title for your forum. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Cím</strong> - Meg kell adni a fórum címét. A cím megadása után lentebb látható a szerkeszthető keresőbarát útvonal."
+
+#: includes/admin/forums.php:189
+msgid "Title and Forum Editor"
+msgstr "Cím és fórum szerkesztő"
+
+#: includes/admin/forums.php:183 includes/admin/replies.php:197
+#: includes/admin/topics.php:198
+msgid "Customizing This Display"
+msgstr "A megjelenés testreszabása"
+
+#: includes/admin/forums.php:179
+msgid "The title field and the big forum editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "A cím mező és a nagy fórumszerkesztő terület helyben marad, de az összes egyéb doboz áthelyezhető vonszolásos technikával és becsukható vagy kinyitható a dobozok címsávjára kattintva. A Képernyőopciók fül használatával megjeleníthető több doboz (Kivonat, Visszakövetés küldése, Egyedi mezők, Beszélgetés, Keresőbarát név, Szerző) vagy választható az egy-vagy kétoszlopos megjelenés."
+
+#: includes/admin/forums.php:165 includes/admin/forums.php:224
+#: includes/admin/replies.php:179 includes/admin/replies.php:236
+#: includes/admin/settings.php:1597 includes/admin/topics.php:180
+#: includes/admin/topics.php:236
+msgid "<a href=\"http://bbpress.org/forums/\" target=\"_blank\">bbPress Support Forums</a>"
+msgstr "<a href=\"http://bbpress.org/forums/\" target=\"_blank\">bbPress támogató fórumok</a>"
+
+#: includes/admin/forums.php:164 includes/admin/forums.php:223
+#: includes/admin/replies.php:178 includes/admin/replies.php:235
+#: includes/admin/settings.php:1596 includes/admin/topics.php:179
+#: includes/admin/topics.php:235
+msgid "<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress Documentation</a>"
+msgstr "<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress dokumentáció</a>"
+
+#: includes/admin/forums.php:163 includes/admin/forums.php:222
+#: includes/admin/replies.php:177 includes/admin/replies.php:234
+#: includes/admin/settings.php:1595 includes/admin/topics.php:178
+#: includes/admin/topics.php:234
+msgid "For more information:"
+msgstr "További információk:"
+
+#: includes/admin/forums.php:158
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected forums at once. To remove a forum from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Csoportos szerkesztés esetében megváltoztathatók a metaadatok (kategóriák, szerző, stb.) minden kiválasztott fórumra vonatkoztatva. Fórum csoportosításból történő eltávolításához kattintsunk a Csoportos szerkesztés területén annak nevére."
+
+#: includes/admin/forums.php:157
+msgid "You can also edit or move multiple forums to the trash at once. Select the forums you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Egyszerre több fórum szerkeszthető és helyezhető át a lomtárba. Válasszuk ki a kijelölődobozok segítségével az érintett fórumokat és válasszuk ki a végrehajtandó műveletet a Csoportműveletek menüből. Ezután kattintsunk az Alkalmazás gombra."
+
+#: includes/admin/forums.php:155 includes/admin/replies.php:169
+#: includes/admin/topics.php:170
+msgid "Bulk Actions"
+msgstr "Csoportművelet"
+
+#: includes/admin/forums.php:148
+msgid "<strong>View</strong> will show you what your draft forum will look like if you publish it. View will take you to your live site to view the forum. Which link is available depends on your forum&#8217;s status."
+msgstr "A <strong>Megtekintés</strong> megjeleníti a vázlat fórum megjelenését publikálás esetén és átvezet a webhelyen a fórumra. A fórum állapotától függ, hogy milyen hivatkozások érhetőek el."
+
+#: includes/admin/forums.php:147
+msgid "<strong>Trash</strong> removes your forum from this list and places it in the trash, from which you can permanently delete it."
+msgstr "A <strong>Lomtár</strong> eltávolítja a fórumot a listából és áthelyezi a lomtárba, ahonnan véglegesen törölhető."
+
+#: includes/admin/forums.php:146
+msgid "<strong>Edit</strong> takes you to the editing screen for that forum. You can also reach that screen by clicking on the forum title."
+msgstr "A <strong>Szerkesztés</strong> a fórum szerkesztő képernyőjére vezet. Ugyanazt a képernyőt kapjuk a fórum címére kattintással."
+
+#: includes/admin/forums.php:144
+msgid "Hovering over a row in the forums list will display action links that allow you to manage your forum. You can perform the following actions:"
+msgstr "Az egeret a fórumlista egyik sora fölé mozgatva megjelennek a fórumkezelést segítő műveleti hivatkozások. A következő műveleteket lehet végrehajtani:"
+
+#: includes/admin/forums.php:142 includes/admin/replies.php:154
+#: includes/admin/topics.php:153
+msgid "Available Actions"
+msgstr "Elérhető műveletek"
+
+#: includes/admin/forums.php:135
+msgid "You can refine the list to show only forums from a specific month by using the dropdown menus above the forums list. Click the Filter button after making your selection. You also can refine the list by clicking on the forum creator in the forums list."
+msgstr "A lista finomítható a legördülő menü segítségével úgy, hogy csak egy adott hónaptól származó fórumok jelenjenek meg. Kattintsunk a Szűrő gombon a kiválasztás után. A lista finomítható úgy is, hogy a fórum létrehozójára kattintunk."
+
+#: includes/admin/forums.php:134
+msgid "You can filter the list of forums by forum status using the text links in the upper left to show All, Published, or Trashed forums. The default view is to show all forums."
+msgstr "A fórumlista szűrhető a fórum állapota alapján a bal felső sarokban levő szöveges hivatkozások segítségével (összes, publikált, lomtárban levő). Alapértelmezésben az összes fórum megjelenik,"
+
+#: includes/admin/forums.php:133
+msgid "You can hide/display columns based on your needs and decide how many forums to list per screen using the Screen Options tab."
+msgstr "Az oszlopok megjeleníthetők/elrejthetők igény szerint. A Képernyő opciók fülön eldönthető, hogy hány fórum legyen kilistázva képernyőnként."
+
+#: includes/admin/forums.php:131 includes/admin/replies.php:142
+#: includes/admin/topics.php:142
+msgid "You can customize the display of this screen&#8217;s contents in a number of ways:"
+msgstr "A megjelenés testreszabásának többféle lehetősége van:"
+
+#: includes/admin/forums.php:129 includes/admin/replies.php:140
+#: includes/admin/topics.php:140
+msgid "Screen Content"
+msgstr "Képernyő tartalom"
+
+#: includes/admin/forums.php:123
+msgid "This screen displays the individual forums on your site. You can customize the display of this screen to suit your workflow."
+msgstr "Ez a képernyő a webhely egyedi fórumait jeleníti meg. A munkafolyamatnak megfelelően a képernyő testre szabható."
+
+#: includes/admin/forums.php:121 includes/admin/replies.php:132
+#: includes/admin/settings.php:1549 includes/admin/topics.php:132
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: includes/admin/converters/AEF.php:688
+#: includes/admin/converters/FluxBB.php:643
+#: includes/admin/converters/Invision.php:525
+#: includes/admin/converters/Kunena1.php:543
+#: includes/admin/converters/Kunena2.php:585
+#: includes/admin/converters/Kunena3.php:812
+#: includes/admin/converters/PHPFox3.php:649
+#: includes/admin/converters/PunBB.php:677
+#: includes/admin/converters/SMF.php:656
+#: includes/admin/converters/SimplePress5.php:537
+#: includes/admin/converters/Vanilla.php:535
+#: includes/admin/converters/XMB.php:705
+#: includes/admin/converters/XenForo.php:722
+#: includes/admin/converters/bbPress1.php:636
+#: includes/admin/converters/phpBB.php:816
+#: includes/admin/converters/vBulletin.php:652
+#: includes/admin/converters/vBulletin3.php:652
+msgid "Re: "
+msgstr "Vá:"
+
+#: includes/admin/converter.php:515
+msgid "Calculating reply_to parents (%1$s - %2$s)"
+msgstr "Szülő hozzászólás kalkulálás (%1$s - %2$s)"
+
+#: includes/admin/converter.php:511
+msgid "No reply_to parents to convert"
+msgstr "Nincs konvertálandó szülő hozzászólás"
+
+#: includes/admin/converter.php:500
+msgid "Converting replies (%1$s - %2$s)"
+msgstr "Hozzászólások konvertálása (%1$s-%2$s)"
+
+#: includes/admin/converter.php:496
+msgid "No replies to convert"
+msgstr "Nincs konvertálandó hozzászólás."
+
+#: includes/admin/converter.php:485
+msgid "Converting topic tags (%1$s - %2$s)"
+msgstr "Témakörcímkék konvertálása (%1$s-%2$s)"
+
+#: includes/admin/converter.php:481
+msgid "No tags to convert"
+msgstr "Nincs konvertálandó címke."
+
+#: includes/admin/converter.php:470
+msgid "Calculating topic super stickies (%1$s - %2$s)"
+msgstr "Szuper-ragadós téma kalkulálás (%1$s - %2$s)"
+
+#: includes/admin/converter.php:466
+msgid "No super stickies to stick"
+msgstr "Nincs szuper-ragadós rögzítés"
+
+#: includes/admin/converter.php:455
+msgid "Calculating topic stickies (%1$s - %2$s)"
+msgstr "Ragadós téma kalkulálás (%1$s - %2$s) "
+
+#: includes/admin/converter.php:451
+msgid "No stickies to stick"
+msgstr "Nincs ragadós rögzítés"
+
+#: includes/admin/converter.php:440
+msgid "Converting topics (%1$s - %2$s)"
+msgstr "Témakörök konvertálása (%1$s-%2$s)"
+
+#: includes/admin/converter.php:436
+msgid "No topics to convert"
+msgstr "Nincs konvertálandó témakör."
+
+#: includes/admin/converter.php:425
+msgid "Calculating forum hierarchy (%1$s - %2$s)"
+msgstr "Fórum hierarchia számolása (%1$s-%2$s)"
+
+#: includes/admin/converter.php:421
+msgid "No forum parents to convert"
+msgstr "Nincs konvertálandó szülőfórum."
+
+#: includes/admin/converter.php:410
+msgid "Converting forums (%1$s - %2$s)"
+msgstr "Fórumok konvertálása (%1$s-%2$s)"
+
+#: includes/admin/converter.php:406
+msgid "No forums to convert"
+msgstr "Nincs konvertálandó fórum."
+
+#: includes/admin/converter.php:391
+msgid "Delete users WordPress default passwords (%1$s - %2$s)"
+msgstr "A Felhasználók alapértelmezett WordPress jelszavának törlése (%1$s - %2$s)"
+
+#: includes/admin/converter.php:387
+msgid "No passwords to clear"
+msgstr "Nincs törlendő jelszó"
+
+#: includes/admin/converter.php:371
+msgid "Converting users (%1$s - %2$s)"
+msgstr "Felhasználók konvertálása (%1$s - %2$s)"
+
+#: includes/admin/converter.php:367
+msgid "No users to convert"
+msgstr "Nincs konvertálandó felhasználó"
+
+#: includes/admin/converter.php:351
+msgid "Deleting previously converted data (%1$s - %2$s)"
+msgstr "Az előzőleg konvertált adatok törlése (%1$s - %2$s)"
+
+#: includes/admin/converter.php:347
+msgid "No data to clean"
+msgstr "Nincs törlendő adat."
+
+#: includes/admin/converter.php:248 includes/admin/converter.php:525
+msgid "Conversion Complete"
+msgstr "A konverzió befejeződött"
+
+#: includes/admin/converter.php:223
+msgid "Starting Conversion"
+msgstr "A konverzió endult"
+
+#: includes/admin/converter.php:134
+msgid "Purge Previous Import"
+msgstr "Előző import tisztogatása"
+
+#: includes/admin/converter.php:130
+msgid "Start Over"
+msgstr "Művelet indítása"
+
+#: includes/admin/converter.php:126
+msgid "Convert Users"
+msgstr "Felhasználók konvertálása"
+
+#: includes/admin/converter.php:122
+msgid "Delay Time"
+msgstr "Késleltetési idő"
+
+#: includes/admin/converter.php:118
+msgid "Rows Limit"
+msgstr "Sorok korlátozása"
+
+#: includes/admin/converter.php:115
+msgid "Options"
+msgstr "Lehetőségek"
+
+#: includes/admin/converter.php:111
+msgid "Table Prefix"
+msgstr "Tábla előtag"
+
+#: includes/admin/converter.php:107
+msgid "Database Password"
+msgstr "Adatbázis jelszó"
+
+#: includes/admin/converter.php:103
+msgid "Database User"
+msgstr "Adatbázis felhasználónév"
+
+#: includes/admin/converter.php:99
+msgid "Database Name"
+msgstr "Adatbázis neve"
+
+#: includes/admin/converter.php:95
+msgid "Database Port"
+msgstr "Adatbázis kapu (port)"
+
+#: includes/admin/converter.php:91
+msgid "Database Server"
+msgstr "Adatbázis szerver"
+
+#: includes/admin/converter.php:87
+msgid "Select Platform"
+msgstr "Platform választás"
+
+#: includes/admin/converter.php:84
+msgid "Database Settings"
+msgstr "Adatbázis beállítások"
+
+#: includes/admin/admin.php:1096
+msgid "You can update all the forums on your network through this page. It works by calling the update script of each site automatically. Hit the link below to update."
+msgstr "Ezen az oldalon az összes hálózati fórum frissíthető. A működés alapja az, hogy a frissítő szkript minden webhelyen automatikusan meghívásra kerül. A frissítéshez kattintsunk az alábbi hivatkozásra."
+
+#: includes/admin/admin.php:1078
+msgid "Next Forums"
+msgstr "Következő fórumok"
+
+#: includes/admin/admin.php:1077
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "Amennyiben a böngésző nem kezdi el tölteni a következő oldalt automatikusan, akkor kattintás erre a hivatkozásra:"
+
+#: includes/admin/admin.php:1053
+msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: <em>%2$s</em>"
+msgstr "Figyelem! Probléma a %1$s frissítésekor. A szerver nem képes kapcsolódni az oldalhoz, és futtatni azt. Hibaüzenet: <em>%2$s</em>"
+
+#: includes/admin/admin.php:983
+msgid "You can update your forum through this page. Hit the link below to update."
+msgstr "A fórum ezen az oldalon frissíthető. A frissítéshez kattintsunk az alábbi hivatkozáson."
+
+#: includes/admin/admin.php:974 includes/admin/admin.php:1028
+msgid "Go Back"
+msgstr "Vissza"
+
+#: includes/admin/admin.php:973 includes/admin/admin.php:1027
+msgid "All done!"
+msgstr "Minden elkészült!"
+
+#: includes/admin/admin.php:962 includes/admin/admin.php:984
+msgid "Update Forum"
+msgstr "Fórum frissítése"
+
+#: includes/admin/admin.php:905
+msgid "Core Contributors to bbPress 2.5"
+msgstr "bbPress 2.5 alaprendszer külső munkatársai"
+
+#: includes/admin/admin.php:896
+msgid "Bug Testing"
+msgstr "Hiba tesztelés"
+
+#: includes/admin/admin.php:815
+msgid "Theme Compatibility"
+msgstr "Sablon kompatibilitás"
+
+#: includes/admin/admin.php:257 includes/admin/admin.php:258
+#: includes/admin/admin.php:266 includes/admin/admin.php:267
+msgid "Welcome to bbPress"
+msgstr "Üdvözlet a bbPress-ben!"
+
+#: includes/admin/admin.php:530
+msgid "Right Now in Forums"
+msgstr "Éppen most ezekben a fórumokban:"
+
+#: includes/admin/admin.php:545
+msgid "About bbPress"
+msgstr "bbPress névjegy"
+
+#: includes/admin/admin.php:887
+msgid "Converter Specialist"
+msgstr "Konvertáló szakember"
+
+#: bbpress.php:485
+msgid "bbPress Forums"
+msgstr "bbPress fórumok"
+
+#: includes/admin/admin.php:816
+msgid "Better handling of styles and scripts in the template stack."
+msgstr "elérhető sablonok"
+
+#: includes/admin/admin.php:515
+msgid "About"
+msgstr "Névjegy"
+
+#: includes/admin/admin.php:865
+msgid "bbPress is created by a worldwide swarm of busy, busy bees."
+msgstr "A bbPress egy nagy közös munkának tekinthető."
+
+#: includes/admin/admin.php:867
+msgid "Project Leaders"
+msgstr "Projektvezetők"
+
+#: bbpress.php:581
+msgctxt "post"
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/admin/admin.php:208 includes/admin/functions.php:277
+#: includes/admin/settings.php:1509
+msgid "Import Forums"
+msgstr "Fórumok importálása"
+
+#: bbpress.php:608
+msgctxt "post"
+msgid "Hidden <span class=\"count\">(%s)</span>"
+msgid_plural "Hidden <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> rejtett"
+msgstr[1] "<span class=\"count\">(%s)</span> rejtett"
+
+#: bbpress.php:595
+msgctxt "post"
+msgid "Orphan <span class=\"count\">(%s)</span>"
+msgid_plural "Orphans <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> árva"
+msgstr[1] "<span class=\"count\">(%s)</span> árva"
+
+#: bbpress.php:405 templates/default/bbpress-functions.php:51
+msgid "bbPress Default"
+msgstr "bbPress alapértelmezés"
+
+#: bbpress.php:510
+msgid "bbPress Topics"
+msgstr "bbPress témakörök"
+
+#: bbpress.php:678
+msgid "Most popular topics"
+msgstr "Legnépszerűbb témák"
+
+#: bbpress.php:607
+msgctxt "post"
+msgid "Hidden"
+msgstr "Rejtett"
+
+#: bbpress.php:571
+msgctxt "post"
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> lezárt"
+msgstr[1] "<span class=\"count\">(%s)</span> lezárt"
+
+#: bbpress.php:133 bbpress.php:140
+msgid "Cheatin&#8217; huh?"
+msgstr "Valami csalás történt!"
+
+#: bbpress.php:535
+msgid "bbPress Replies"
+msgstr "bbPress hozzászólások"
+
+#: includes/admin/admin.php:832 includes/admin/admin.php:936
+msgid "Go to Forum Settings"
+msgstr "Fórum beállítások"
+
+#: includes/admin/admin.php:854
+msgid "Thank you for updating! bbPress %s is waxed, polished, and ready for you to take it for a lap or two around the block!"
+msgstr "Köszönjük a frissítést! bbPress %s waxolva, polírozva, és készen áll rá, hogy elvidd néhány körre a tömb körül!"
+
+#: bbpress.php:570
+msgctxt "post"
+msgid "Closed"
+msgstr "Lezárva"
+
+#: bbpress.php:582
+msgctxt "post"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> spam"
+msgstr[1] "<span class=\"count\">(%s)</span> spam"
+
+#: bbpress.php:594
+msgctxt "post"
+msgid "Orphan"
+msgstr "Árva"
+
+#: bbpress.php:690
+msgid "Topics with no replies"
+msgstr "Hozzászólás nélküli témakörök"
+
+#: includes/admin/admin.php:218 includes/admin/functions.php:281
+#: includes/admin/tools.php:1208
+msgid "Reset Forums"
+msgstr "Fórumok alaphelyzet"
+
+#: includes/admin/admin.php:219
+msgid "Forum Reset"
+msgstr "Fórum alaphelyzet"
+
+#: includes/admin/admin.php:233 includes/admin/admin.php:234
+#: includes/admin/admin.php:244 includes/admin/admin.php:245
+#: includes/admin/users.php:82 includes/common/widgets.php:662
+#: includes/extend/buddypress/loader.php:42
+#: includes/extend/buddypress/loader.php:175
+#: includes/extend/buddypress/loader.php:261
+#: includes/extend/buddypress/loader.php:312 includes/forums/template.php:47
+#: includes/forums/template.php:48
+#: templates/default/bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr "Fórumok"
+
+#: includes/admin/admin.php:280 includes/admin/admin.php:281
+#: includes/admin/admin.php:302 includes/admin/admin.php:303
+#: includes/admin/admin.php:1010 includes/admin/admin.php:1097
+msgid "Update Forums"
+msgstr "Fórumok frissítése"
+
+#: includes/admin/admin.php:510
+msgid "Settings"
+msgstr "Beállítások"
+
+#: includes/admin/admin.php:639
+msgctxt "admin color scheme"
+msgid "Evergreen"
+msgstr "Örökzöld"
+
+#: includes/admin/admin.php:720 includes/admin/admin.php:758
+msgid "%s - %s"
+msgstr "%s - %s"
+
+#: includes/admin/admin.php:776 includes/admin/admin.php:853
+msgid "Welcome to bbPress %s"
+msgstr "Üdvözlet a bbPress %s verzióban!"
+
+#: includes/admin/admin.php:777
+msgid "Thank you for updating! bbPress %s is bundled up and ready to weather the storm of users in your community!"
+msgstr "Köszönet a bbPress %s verziójára történő frissítésért!"
+
+#: includes/admin/admin.php:778 includes/admin/admin.php:855
+msgid "Version %s"
+msgstr "%s verzió"
+
+#: includes/admin/admin.php:782 includes/admin/admin.php:859
+msgid "What&#8217;s New"
+msgstr "Újdonságok"
+
+#: includes/admin/admin.php:784 includes/admin/admin.php:861
+msgid "Credits"
+msgstr "Stáblista"
+
+#: includes/admin/admin.php:789
+msgid "Forum Subscriptions"
+msgstr "Fórum feliratkozások"
+
+#: includes/admin/admin.php:793
+msgid "Subscribe to Forums"
+msgstr "Feliratkozás a fórumra"
+
+#: includes/admin/admin.php:794
+msgid "Now your users can subscribe to new topics in specific forums."
+msgstr "Feliratkozások lehetővé teszik, hogy a felhasználó feliratkozzon az érdekes témákra. Alapértelmezésben be van kapcsolva."
+
+#: includes/admin/admin.php:798
+msgid "Manage Subscriptions"
+msgstr "Feliratkozások kezelése"
+
+#: includes/admin/admin.php:799
+msgid "Your users can manage all of their subscriptions in one convenient location."
+msgstr "kezelése"
+
+#: includes/admin/admin.php:805
+msgid "Converters"
+msgstr "Konvertálók"
+
+#: includes/admin/admin.php:809
+msgid "We&#8217;re all abuzz about the hive of new importers, AEF, Drupal, FluxBB, Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo and XMB. Existing importers are now sweeter than honey with improved importing stickies, topic tags, forum categories and the sting is now gone if you need to remove imported users."
+msgstr "Mindannyian nagyon izgatottak vagyunk az új AEF, Drupal, FluxBB, Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo és XMB importálók áradata miatt. A meglévő importálók most jobbak, mint valaha, a fejlesztett importálási funkcióknak köszönhetően (kiemelt téma, téma címke, fórum kategória importálás). Mostantól az importált felhasználók törlése sem jelent gondot."
+
+#: includes/admin/admin.php:820
+msgid "Polyglot support"
+msgstr "Többnyelvű támogatás"
+
+#: includes/admin/admin.php:821
+msgid "bbPress fully supports automatic translation updates."
+msgstr "A bbPress teljes mértékben támogatja az automatikus fordítás-frissítést."
+
+#: includes/admin/admin.php:825
+msgid "User capabilities"
+msgstr "Felhasználói adottságok"
+
+#: includes/admin/admin.php:826
+msgid "Roles and capabilities have been swept through, cleaned up, and simplified."
+msgstr "A szerepköröket és jogosultságokat átfésültük, kitakarítottuk és egyszerűstettük."
+
+#: includes/admin/admin.php:877
+msgid "Lead Developer"
+msgstr "vezető fejlesztő"
+
+#: includes/admin/admin.php:872
+msgid "Founding Developer"
+msgstr "Alapító fejlesztő"
+
+#: includes/admin/admin.php:630
+msgctxt "admin color scheme"
+msgid "Mint"
+msgstr "Menta"
+
+#: includes/admin/admin.php:198 includes/admin/functions.php:273
+#: includes/admin/tools.php:34
+msgid "Repair Forums"
+msgstr "Fórumok helyreállítása"
+
+#: includes/admin/admin.php:891
+msgid "Contributing Developers"
+msgstr "És akik még ehhez a kiadáshoz hozzájárultak"
+
+#: includes/admin/admin.php:199
+msgid "Forum Repair"
+msgstr "Fórum helyreállítása"
+
+#: includes/admin/admin.php:209
+msgid "Forum Import"
+msgstr "Fórum importálása"
+
+#: includes/admin/admin.php:882 includes/admin/admin.php:901
+msgid "Feature Developer"
+msgstr "Szolgáltatás fejlesztő"
