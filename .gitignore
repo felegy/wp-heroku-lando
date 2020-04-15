@@ -17,7 +17,9 @@ web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
-
+web/app/languages
+!web/app/languages/.gitkeep
+web/app/themes/supermag/*
 # WordPress
 web/wp
 web/.htaccess

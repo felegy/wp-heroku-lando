@@ -1,0 +1,67 @@
+services:
+  appserver:
+    type: compose
+    services:
+      entrypoint: .lando/lando-entrypoint.sh
+      image: heroku/heroku:18-build
+      user: www-data
+      working_dir: /app
+      command: tools/entrypoint.sh tools/start-web.sh
+      environment:
+        PORT: ${APP_PORT-3000}
+        STACK: ${STACK-heroku-18}
+        DB_USER: ${DB_USER-wordpress}
+        DB_PASSWORD: ${DB_PASSWORD-wordpress}
+        DB_NAME: ${DB_NAME-wordpress}
+        DATABASE_URL: ${DATABASE_URL-}
+        AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID-}
+        AWS_REGION: ${AWS_REGION-eu-west-1}
+        AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY-}
+        BUCKET_NAME: ${BUCKET_NAME-}
+        S3_UPLOADS_BUCKET_URL: ${S3_UPLOADS_BUCKET_URL-}
+        WP_ENV: ${WP_ENV-local}
+        WP_HOME: ${WP_HOME}
+        WP_SITEURL: ${WP_SITEURL}
+        XDEBUG_VER: ${XDEBUG_VER-2.9.4}
+      ports:
+        - ${APP_PORT-3000}:${APP_PORT-3000}
+    build_as_root:
+      - usermod -d /app www-data && chsh --shell /bin/bash www-data
+      - rm /etc/profile && cp /app/.docker/etc/profile /etc/profile
+    build:
+      - mkdir -p /tmp/buildpack/php /tmp/build_cache /tmp/env
+      - curl https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/php.tgz | tar --warning=none -xz -C /tmp/buildpack/php
+      - rm -rf /app/.heroku && rm -rf /app/.profile.d && rm -rf /app/vendor && /tmp/buildpack/php/bin/compile /app /tmp/build_cache /tmp/env
+      - tools/entrypoint.sh .lando/xdebug/xdebug-install.sh $XDEBUG_VER
+    extras:
+      - "wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh"
+      - "tools/terraform-install.sh"
+  database:
+    type: mariadb
+    creds:
+      user: ${DB_USER-wordpress}
+      password: ${DB_PASSWORD-wordpress}
+      database: ${DB_NAME-wordpress}
+  phpmyadmin:
+    type: phpmyadmin
+    hosts:
+      - database
+
+tooling:
+  php:
+    service: appserver
+    cmd: tools/entrypoint.sh php
+  composer:
+    service: appserver
+    cmd: tools/entrypoint.sh composer
+  wp:
+    service: appserver
+    cmd: tools/entrypoint.sh bin/wp-cli.phar
+  git:
+    service: appserver
+  heroku:
+    service: appserver
+    cmd: tools/entrypoint.sh /usr/bin/heroku
+  terraform:
+      service: appserver
+      cmd: tools/entrypoint.sh /usr/local/bin/terraform
